@@ -1,0 +1,801 @@
+applicant_id,application_date,age,annual_income,loan_amount,loan_term_months,credit_score,existing_debt,monthly_expenses,employment_type,education_level,home_ownership,loan_purpose,default
+APP0001,2024-09-23,25.0,76567.0,21877,36,744.0,27669.0,4292.0,Salaried,Graduate,Rent,Personal,0
+APP0002,2025-02-15,55.0,79738.0,33145,36,740.0,21079.0,3758.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0003,2024-05-23,50.0,70792.0,33719,36,753.0,16642.0,4051.0,Salaried,Graduate,Mortgage,Education,0
+APP0004,2024-03-22,40.0,31469.0,9901,24,727.0,1244.0,1327.0,Salaried,Diploma,Mortgage,Education,0
+APP0005,2023-12-28,40.0,20456.0,16150,60,674.0,4077.0,853.0,Salaried,High School,Own,Home improvement,1
+APP0006,2023-06-02,59.0,63639.0,37658,60,679.0,24388.0,1901.0,Salaried,Graduate,Own,Vehicle,1
+APP0007,2023-01-28,24.0,49436.0,14595,12,662.0,15063.0,2344.0,Contract,High School,Own,Personal,0
+APP0008,2024-01-04,52.0,77296.0,39702,48,850.0,3121.0,4242.0,Salaried,Postgraduate,Rent,Business,0
+APP0009,2025-05-21,30.0,86840.0,85528,60,726.0,32443.0,3879.0,Salaried,Graduate,Own,Personal,0
+APP0010,2023-09-13,25.0,66254.0,66218,36,660.0,23233.0,1773.0,Business owner,Graduate,Own,Medical,1
+APP0011,2023-07-16,44.0,,15453,60,720.0,21314.0,3594.0,Contract,Diploma,Rent,Home improvement,1
+APP0012,2023-12-26,64.0,69211.0,14136,48,624.0,2005.0,3421.0,Self-employed,Postgraduate,Mortgage,Medical,0
+APP0013,2024-10-17,54.0,79963.0,61526,60,788.0,19589.0,4588.0,Salaried,High School,Rent,Medical,0
+APP0014,2023-08-24,55.0,44207.0,8398,60,647.0,1849.0,1037.0,Salaried,High School,,Business,0
+APP0015,2023-08-30,53.0,56879.0,9344,12,723.0,8427.0,1262.0,Salaried,High School,Rent,Vehicle,0
+APP0016,2023-05-04,56.0,68142.0,17732,36,759.0,18505.0,2355.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0017,2023-12-30,44.0,91926.0,39382,36,715.0,35407.0,2032.0,Salaried,Postgraduate,Mortgage,Home improvement,0
+APP0018,2023-08-27,26.0,51323.0,16494,24,696.0,8372.0,3036.0,Salaried,Diploma,Own,Home improvement,0
+APP0019,2025-06-29,58.0,79622.0,18929,36,691.0,28983.0,2791.0,Salaried,Postgraduate,Mortgage,Business,0
+APP0020,2025-09-18,41.0,54573.0,12806,60,686.0,21139.0,2171.0,Self-employed,,Mortgage,Education,1
+APP0021,2024-02-10,43.0,58599.0,13465,12,653.0,1665.0,,Salaried,Graduate,Mortgage,Education,0
+APP0022,2023-04-04,37.0,92324.0,19351,36,661.0,10688.0,3336.0,Salaried,High School,Mortgage,Home improvement,1
+APP0023,2023-04-06,29.0,23819.0,28405,60,786.0,7240.0,1413.0,Contract,Graduate,Own,Personal,0
+APP0024,2023-12-22,62.0,33276.0,13325,36,683.0,10739.0,1259.0,Contract,Graduate,Mortgage,Vehicle,0
+APP0025,2024-05-22,56.0,30438.0,16854,36,639.0,5387.0,519.0,Salaried,Graduate,Own,Personal,1
+APP0026,2024-08-01,49.0,20227.0,5255,60,656.0,5718.0,550.0,Salaried,Diploma,Mortgage,Medical,0
+APP0027,2023-11-30,39.0,44771.0,13742,36,762.0,11858.0,2644.0,Salaried,Postgraduate,Rent,Education,0
+APP0028,2024-01-24,58.0,88842.0,20401,24,734.0,28066.0,5288.0,Salaried,Postgraduate,Mortgage,Business,0
+APP0029,2023-11-07,45.0,54076.0,4277,12,726.0,16626.0,1395.0,Self-employed,Graduate,Mortgage,Home improvement,0
+APP0030,2024-07-20,40.0,68175.0,10863,60,673.0,3705.0,2954.0,Salaried,Graduate,Rent,Education,1
+APP0031,2025-02-02,41.0,104581.0,13135,36,727.0,8712.0,2092.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0032,2023-02-17,31.0,117264.0,11568,36,648.0,8571.0,4889.0,Salaried,Diploma,Rent,Education,0
+APP0033,2024-06-08,25.0,59976.0,10566,24,673.0,23570.0,1327.0,Salaried,Postgraduate,Rent,Education,0
+APP0034,2024-12-11,,118730.0,83661,36,753.0,45761.0,6191.0,Salaried,Diploma,Rent,Personal,0
+APP0035,2025-01-06,60.0,64803.0,21501,60,747.0,21966.0,3718.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0036,2024-09-09,23.0,41479.0,28680,36,626.0,2766.0,1002.0,Business owner,High School,Own,,1
+APP0037,2024-07-29,59.0,46610.0,19867,60,634.0,11639.0,1711.0,Self-employed,Diploma,Rent,Medical,1
+APP0038,2025-01-15,58.0,30462.0,15928,36,697.0,2891.0,642.0,Salaried,Graduate,Own,Personal,0
+APP0039,2024-02-19,33.0,40481.0,8386,36,802.0,6775.0,1270.0,,Graduate,Rent,Education,0
+APP0040,2024-09-13,49.0,52211.0,23681,60,565.0,6622.0,1017.0,Self-employed,Postgraduate,Own,Education,0
+APP0041,2023-12-16,28.0,91182.0,46286,36,708.0,32057.0,2565.0,Salaried,Postgraduate,Mortgage,Personal,1
+APP0042,2024-04-24,55.0,141614.0,35063,36,601.0,11015.0,8437.0,Salaried,High School,Own,Personal,0
+APP0043,2023-05-16,52.0,31935.0,14771,60,649.0,8893.0,594.0,Self-employed,Diploma,Mortgage,Business,0
+APP0044,2024-01-19,36.0,74865.0,34753,36,666.0,30961.0,4034.0,Salaried,Diploma,Own,Medical,0
+APP0045,2023-06-05,24.0,37625.0,9456,36,663.0,11093.0,753.0,Salaried,Graduate,Mortgage,Education,0
+APP0046,2023-09-05,64.0,77866.0,14277,60,655.0,4025.0,3083.0,Salaried,Graduate,Rent,Vehicle,0
+APP0047,2024-04-04,41.0,58219.0,10320,24,690.0,22306.0,2111.0,Salaried,Postgraduate,Rent,Personal,0
+APP0048,2024-07-01,61.0,25747.0,9181,36,655.0,7138.0,1468.0,Salaried,Graduate,Rent,Home improvement,0
+APP0049,2025-10-28,51.0,96807.0,39400,12,595.0,19606.0,2448.0,Contract,High School,Own,Vehicle,1
+APP0050,2023-01-29,56.0,46374.0,10196,36,741.0,13165.0,1134.0,Salaried,Graduate,Own,Home improvement,1
+APP0051,2025-09-10,55.0,47984.0,16555,24,739.0,17832.0,2357.0,Salaried,Graduate,Mortgage,Personal,0
+APP0052,2023-12-26,29.0,37101.0,17264,48,745.0,7823.0,1785.0,Self-employed,Graduate,Rent,Personal,0
+APP0053,2025-03-03,37.0,45290.0,21634,24,590.0,10531.0,2127.0,Salaried,High School,Rent,Vehicle,0
+APP0054,2025-01-12,42.0,76136.0,60779,48,709.0,15302.0,1355.0,Salaried,Diploma,Own,Business,0
+APP0055,2025-11-29,43.0,56616.0,38854,36,734.0,2776.0,1581.0,Salaried,Graduate,Mortgage,Business,0
+APP0056,2023-04-30,22.0,72595.0,14230,36,623.0,24307.0,3852.0,Self-employed,High School,Rent,Home improvement,1
+APP0057,2025-11-25,45.0,,63309,36,,5205.0,3150.0,Salaried,Graduate,Rent,Medical,0
+APP0058,2023-03-10,27.0,116869.0,29672,48,682.0,,,Self-employed,Diploma,Rent,Personal,0
+APP0059,2025-08-18,54.0,52594.0,31768,36,810.0,9190.0,1551.0,Contract,Graduate,Own,Education,0
+APP0060,2024-12-15,51.0,30516.0,10771,36,815.0,4029.0,853.0,Self-employed,Graduate,Rent,Medical,0
+APP0061,2024-06-11,62.0,103482.0,28048,60,582.0,18731.0,5969.0,Business owner,Postgraduate,Rent,Home improvement,0
+APP0062,2024-03-11,54.0,52880.0,6652,36,850.0,14130.0,2549.0,Self-employed,High School,Own,Business,0
+APP0063,2023-04-13,,105862.0,32752,24,631.0,15303.0,2346.0,Contract,High School,Rent,Medical,0
+APP0064,2025-05-27,64.0,74527.0,10748,60,754.0,6633.0,4270.0,Contract,Diploma,Own,Personal,0
+APP0065,2025-03-08,39.0,58218.0,33697,36,753.0,21409.0,2439.0,Self-employed,Graduate,Rent,Medical,0
+APP0066,2025-10-23,35.0,73299.0,57396,12,,29930.0,2281.0,Contract,Diploma,Mortgage,Home improvement,1
+APP0067,2025-03-10,61.0,158162.0,34692,36,722.0,32175.0,5358.0,Business owner,Graduate,Own,Business,1
+APP0068,2025-11-13,,168020.0,67448,24,683.0,25339.0,8082.0,Salaried,Diploma,Rent,Education,1
+APP0069,2025-08-29,24.0,64100.0,14624,24,726.0,2499.0,2113.0,Self-employed,High School,Rent,Education,0
+APP0070,2024-04-11,42.0,66955.0,16112,48,705.0,2326.0,2795.0,Salaried,Graduate,Own,Medical,0
+APP0071,2025-02-09,56.0,,54103,24,768.0,18412.0,4932.0,Contract,Graduate,Mortgage,Personal,0
+APP0072,2023-10-17,29.0,41315.0,13752,60,695.0,16199.0,1038.0,Salaried,Postgraduate,Rent,Medical,0
+APP0073,2025-05-20,41.0,72748.0,64393,60,679.0,22718.0,4189.0,Contract,Graduate,Rent,Education,1
+APP0074,2024-10-28,26.0,61235.0,15970,48,761.0,9780.0,1966.0,Contract,Graduate,Rent,Home improvement,0
+APP0075,2024-04-27,51.0,72082.0,42463,48,728.0,29353.0,2511.0,Business owner,Graduate,Own,Home improvement,1
+APP0076,2024-11-18,42.0,41559.0,14908,48,738.0,7959.0,1951.0,Salaried,Graduate,Mortgage,Education,1
+APP0077,2023-10-31,35.0,28909.0,15226,60,647.0,3779.0,1244.0,,Diploma,Own,Vehicle,0
+APP0078,2024-11-12,31.0,22922.0,6094,36,622.0,4368.0,819.0,Self-employed,Graduate,Rent,Education,0
+APP0079,2024-06-03,46.0,36263.0,11998,24,653.0,3794.0,1625.0,Business owner,Graduate,Mortgage,Home improvement,0
+APP0080,2023-12-19,51.0,49748.0,15873,36,650.0,18618.0,2775.0,Business owner,Diploma,Mortgage,Personal,0
+APP0081,2025-12-04,63.0,53861.0,11562,36,741.0,8858.0,2766.0,Salaried,Graduate,,Personal,0
+APP0082,2023-03-11,40.0,157119.0,76887,24,753.0,44494.0,8231.0,Salaried,Graduate,Rent,Home improvement,1
+APP0083,2025-04-09,28.0,105426.0,51256,48,680.0,18515.0,2938.0,Salaried,Graduate,Rent,Medical,1
+APP0084,2023-08-18,58.0,39069.0,18411,12,,14873.0,1361.0,Business owner,High School,,Home improvement,1
+APP0085,2023-09-01,,73261.0,58006,60,779.0,20290.0,2979.0,Salaried,Graduate,Mortgage,Business,0
+APP0086,2023-06-19,52.0,50995.0,38477,36,706.0,10979.0,948.0,Self-employed,Postgraduate,Own,Home improvement,0
+APP0087,2023-04-23,25.0,54089.0,14963,12,637.0,3941.0,2706.0,Contract,High School,Mortgage,Home improvement,0
+APP0088,2023-05-16,35.0,67768.0,28289,24,792.0,25804.0,2079.0,Salaried,Diploma,Rent,Vehicle,1
+APP0089,2025-06-30,55.0,83457.0,20137,36,686.0,19923.0,2413.0,Salaried,High School,Rent,Home improvement,0
+APP0090,2025-10-11,58.0,52683.0,18144,36,698.0,7061.0,1470.0,Salaried,High School,Rent,Home improvement,0
+APP0091,2024-10-02,40.0,103315.0,25257,12,668.0,38348.0,2991.0,Contract,Postgraduate,Mortgage,Education,0
+APP0092,2023-01-16,57.0,35838.0,29703,36,632.0,1497.0,1122.0,Salaried,Graduate,Own,Personal,0
+APP0093,2025-08-04,58.0,62189.0,25827,24,595.0,9057.0,2666.0,Salaried,Diploma,Rent,Personal,0
+APP0094,2024-10-21,38.0,215728.0,65059,36,731.0,50638.0,9051.0,Self-employed,Diploma,Rent,Personal,0
+APP0095,2024-07-24,61.0,69007.0,45236,36,639.0,10760.0,1915.0,Salaried,Postgraduate,Mortgage,Personal,0
+APP0096,2025-11-03,33.0,123356.0,12710,36,850.0,25990.0,3159.0,Contract,Diploma,Mortgage,Medical,0
+APP0097,2024-03-24,31.0,64784.0,7275,36,619.0,8145.0,3400.0,Salaried,Graduate,Own,Business,0
+APP0098,2024-01-30,51.0,81933.0,43155,24,608.0,5902.0,1695.0,Salaried,Diploma,Rent,Personal,0
+APP0099,2025-05-03,49.0,60333.0,21207,12,723.0,2096.0,2346.0,Salaried,High School,Mortgage,Personal,0
+APP0100,2024-07-31,27.0,57131.0,22293,24,789.0,4745.0,2241.0,Salaried,Graduate,Mortgage,Personal,0
+APP0101,2025-02-23,58.0,42648.0,6991,48,694.0,17109.0,1772.0,Salaried,High School,Own,Medical,0
+APP0102,2025-01-31,,,25587,60,727.0,19068.0,4196.0,Self-employed,Graduate,Own,Home improvement,1
+APP0103,2025-07-08,57.0,41198.0,42162,60,570.0,8882.0,1800.0,Salaried,Diploma,Mortgage,Vehicle,1
+APP0104,2023-12-14,21.0,85338.0,45655,36,646.0,14826.0,5023.0,Salaried,Graduate,Mortgage,Education,0
+APP0105,2023-03-20,56.0,104384.0,38963,36,620.0,31667.0,5681.0,Salaried,Graduate,,Vehicle,0
+APP0106,2024-06-07,56.0,73926.0,19743,36,567.0,5656.0,1920.0,Salaried,Graduate,Own,Education,1
+APP0107,2024-12-10,56.0,54041.0,14790,60,698.0,7050.0,1465.0,Business owner,High School,Rent,Education,0
+APP0108,2025-06-13,50.0,77095.0,8127,60,544.0,21769.0,2437.0,Salaried,Graduate,Mortgage,Business,0
+APP0109,2023-10-20,42.0,53462.0,20944,60,604.0,,1798.0,Business owner,Postgraduate,Own,Personal,0
+APP0110,2025-03-27,52.0,97144.0,52583,60,655.0,31867.0,3947.0,Salaried,Diploma,Rent,Vehicle,0
+APP0111,2025-06-30,33.0,25740.0,3679,36,636.0,9751.0,688.0,Salaried,Diploma,Rent,Medical,1
+APP0112,2025-06-04,56.0,52775.0,12472,60,716.0,18437.0,1388.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0113,2025-06-03,46.0,23844.0,4289,60,710.0,2234.0,791.0,Salaried,High School,Mortgage,Business,0
+APP0114,2025-12-17,41.0,30250.0,6048,36,748.0,1712.0,1385.0,Contract,Graduate,Mortgage,Personal,0
+APP0115,2024-12-24,43.0,119318.0,41779,60,739.0,10473.0,5547.0,Salaried,Graduate,Own,Personal,0
+APP0116,2024-02-10,46.0,95280.0,10294,24,764.0,31768.0,5618.0,Salaried,High School,Mortgage,Vehicle,0
+APP0117,2024-04-22,22.0,43894.0,20922,60,690.0,16923.0,1117.0,Self-employed,Graduate,Mortgage,Medical,1
+APP0118,2025-03-29,27.0,30142.0,15514,60,710.0,11761.0,1016.0,Self-employed,Graduate,Rent,Personal,0
+APP0119,2023-09-17,32.0,18000.0,5331,24,723.0,2507.0,1052.0,Business owner,Diploma,Rent,Business,1
+APP0120,2024-10-22,26.0,47763.0,4150,48,699.0,17010.0,2224.0,Business owner,Postgraduate,Mortgage,Vehicle,0
+APP0121,2024-09-19,40.0,198132.0,38943,12,664.0,46461.0,8387.0,Self-employed,High School,Rent,Medical,1
+APP0122,2024-12-30,51.0,76392.0,51171,60,668.0,26670.0,3060.0,Contract,Diploma,Own,Vehicle,1
+APP0123,2024-04-06,50.0,47396.0,3497,60,637.0,11344.0,945.0,Contract,Postgraduate,Own,Vehicle,0
+APP0124,2025-03-21,42.0,77507.0,21768,48,717.0,6073.0,4292.0,Salaried,High School,Mortgage,Business,0
+APP0125,2023-03-20,59.0,29308.0,5207,60,684.0,1515.0,1283.0,Self-employed,Postgraduate,Rent,Personal,0
+APP0126,2025-03-31,46.0,53754.0,28449,24,647.0,21657.0,2228.0,Salaried,High School,Mortgage,Medical,1
+APP0127,2025-06-08,24.0,65032.0,15253,36,647.0,12377.0,2604.0,Self-employed,Graduate,Rent,Medical,1
+APP0128,2025-08-27,55.0,59490.0,25259,36,611.0,9531.0,2002.0,Business owner,High School,Mortgage,Vehicle,1
+APP0129,2025-10-07,46.0,90624.0,42052,12,754.0,14728.0,2510.0,Salaried,Graduate,Rent,Education,0
+APP0130,2024-01-18,49.0,73154.0,68284,36,695.0,12551.0,3614.0,Contract,Graduate,Mortgage,Vehicle,0
+APP0131,2023-02-20,46.0,85450.0,25985,36,634.0,34009.0,3311.0,Business owner,Postgraduate,Mortgage,Personal,1
+APP0132,2024-12-16,45.0,44555.0,18629,36,743.0,2009.0,808.0,,Postgraduate,Rent,Personal,0
+APP0133,2023-04-09,25.0,95401.0,14332,36,654.0,6451.0,3240.0,Salaried,Graduate,Rent,Home improvement,0
+APP0134,2023-11-03,46.0,135507.0,88672,60,599.0,45511.0,7711.0,Business owner,Graduate,Mortgage,Personal,0
+APP0135,2025-02-08,56.0,38918.0,8709,36,756.0,,1279.0,Business owner,Graduate,Rent,Personal,0
+APP0136,2024-10-13,34.0,40489.0,10113,60,655.0,2892.0,1400.0,Salaried,Postgraduate,Rent,Home improvement,1
+APP0137,2024-10-26,48.0,117720.0,39538,36,663.0,3977.0,5145.0,Salaried,Graduate,Own,Personal,0
+APP0138,2025-04-02,22.0,56559.0,8141,36,693.0,6204.0,2907.0,Self-employed,Postgraduate,Mortgage,Personal,0
+APP0139,2023-06-30,36.0,121628.0,46898,36,764.0,15121.0,5550.0,Salaried,Diploma,Own,Personal,1
+APP0140,2025-05-16,40.0,50135.0,29021,36,691.0,1288.0,2682.0,Salaried,Graduate,Own,Home improvement,0
+APP0141,2024-10-04,65.0,124656.0,49792,36,612.0,13268.0,2693.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0142,2024-04-05,30.0,66039.0,9370,36,725.0,20824.0,3747.0,Salaried,Diploma,Own,Vehicle,0
+APP0143,2024-05-22,33.0,70181.0,22291,24,658.0,25418.0,3919.0,Salaried,Diploma,Own,Education,0
+APP0144,2024-07-11,39.0,131394.0,67189,36,813.0,49837.0,5146.0,Self-employed,Postgraduate,Own,Medical,1
+APP0145,2024-08-25,,52117.0,6308,36,690.0,9171.0,2280.0,Self-employed,Graduate,Rent,Personal,1
+APP0146,2024-01-01,59.0,39464.0,7429,36,545.0,5831.0,1022.0,Contract,High School,Rent,Home improvement,1
+APP0147,2023-09-02,22.0,49990.0,27525,60,713.0,20993.0,1804.0,Salaried,Diploma,Mortgage,Vehicle,1
+APP0148,2023-07-05,31.0,77035.0,30387,36,816.0,25247.0,1961.0,Salaried,Diploma,Rent,Business,0
+APP0149,2024-01-09,57.0,29241.0,12470,60,792.0,6870.0,515.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0150,2023-10-13,23.0,84194.0,79602,60,809.0,10264.0,4982.0,Salaried,Postgraduate,Rent,Vehicle,0
+APP0151,2024-07-19,59.0,47872.0,21061,60,624.0,7110.0,1335.0,Salaried,Postgraduate,Own,Vehicle,0
+APP0152,2025-09-25,33.0,107564.0,52516,60,749.0,24325.0,4557.0,Salaried,Graduate,Rent,Home improvement,0
+APP0153,2023-04-29,62.0,19646.0,29665,24,643.0,4653.0,583.0,Salaried,Graduate,Own,Home improvement,1
+APP0154,2023-12-05,34.0,42503.0,12848,36,705.0,1083.0,1391.0,,Diploma,Mortgage,Personal,0
+APP0155,2023-02-23,40.0,27595.0,6050,24,607.0,11142.0,936.0,Self-employed,Postgraduate,Rent,Medical,0
+APP0156,2025-12-03,50.0,41702.0,17940,60,648.0,10436.0,1300.0,Self-employed,Diploma,Rent,Home improvement,0
+APP0157,2025-02-06,26.0,69827.0,30225,48,646.0,17852.0,3092.0,Business owner,High School,Rent,Education,1
+APP0158,2023-09-22,46.0,56889.0,14478,36,748.0,5950.0,3317.0,Contract,Postgraduate,Mortgage,,0
+APP0159,2024-03-29,43.0,54900.0,10579,60,742.0,17897.0,1935.0,Salaried,,Rent,Education,0
+APP0160,2025-03-02,56.0,57439.0,69570,24,708.0,18088.0,3380.0,Salaried,Diploma,Mortgage,Personal,0
+APP0161,2025-11-14,65.0,68358.0,27819,36,602.0,3969.0,3117.0,Salaried,Graduate,Rent,Medical,0
+APP0162,2024-09-20,50.0,38208.0,8684,48,670.0,9858.0,1642.0,Salaried,Graduate,Rent,,0
+APP0163,2023-10-24,39.0,87045.0,48978,12,642.0,24658.0,2345.0,Salaried,Diploma,Mortgage,Home improvement,1
+APP0164,2025-02-02,39.0,85218.0,27286,48,747.0,30187.0,1653.0,Salaried,Diploma,Own,Home improvement,0
+APP0165,2025-01-20,39.0,74586.0,22066,60,767.0,7640.0,3997.0,Salaried,High School,Rent,Vehicle,0
+APP0166,2024-12-06,,80986.0,37514,12,759.0,30050.0,3364.0,Salaried,Graduate,Mortgage,Personal,0
+APP0167,2023-02-20,35.0,71480.0,11942,36,641.0,14624.0,2475.0,Self-employed,Graduate,Rent,Home improvement,1
+APP0168,2025-02-12,28.0,164674.0,67972,36,512.0,9651.0,8539.0,Contract,Graduate,,Vehicle,0
+APP0169,2023-01-22,36.0,59462.0,57896,48,575.0,3701.0,1791.0,Self-employed,Diploma,Own,Vehicle,1
+APP0170,2025-09-18,22.0,53503.0,23508,24,782.0,5303.0,2709.0,Self-employed,Postgraduate,Own,Home improvement,1
+APP0171,2025-08-23,25.0,43183.0,11938,60,664.0,5748.0,1333.0,Salaried,Graduate,Mortgage,Vehicle,1
+APP0172,2024-09-08,25.0,37775.0,9718,60,641.0,8256.0,2137.0,Salaried,Postgraduate,,Home improvement,0
+APP0173,2024-12-08,55.0,34117.0,9256,24,797.0,10900.0,965.0,Self-employed,High School,Mortgage,Vehicle,0
+APP0174,2023-03-16,53.0,40468.0,11965,36,772.0,3832.0,916.0,Salaried,Graduate,Own,Education,0
+APP0175,2025-08-15,52.0,59932.0,16554,48,692.0,,2812.0,Salaried,Postgraduate,Mortgage,Vehicle,1
+APP0176,2023-10-24,41.0,72791.0,40966,48,671.0,6159.0,1727.0,Salaried,Diploma,Mortgage,Home improvement,1
+APP0177,2023-10-15,53.0,63541.0,8328,36,681.0,16505.0,3673.0,Business owner,High School,Mortgage,Vehicle,0
+APP0178,2025-02-14,28.0,42935.0,23453,24,705.0,16812.0,1935.0,,Diploma,Own,Vehicle,0
+APP0179,2025-10-25,61.0,95509.0,26353,24,794.0,33715.0,,Salaried,Diploma,Rent,Business,0
+APP0180,2024-06-25,43.0,88416.0,36987,60,,24682.0,2274.0,Self-employed,Graduate,Own,Vehicle,1
+APP0181,2024-07-09,63.0,57426.0,10505,36,737.0,17584.0,3256.0,Salaried,Diploma,Own,Personal,0
+APP0182,2024-08-23,27.0,45319.0,31998,60,766.0,3339.0,1949.0,Salaried,Diploma,Own,Home improvement,1
+APP0183,2023-11-15,43.0,80671.0,54417,36,614.0,1925.0,,Salaried,Graduate,Mortgage,Medical,1
+APP0184,2024-10-15,,67854.0,39108,60,739.0,13141.0,1455.0,Salaried,High School,Rent,Education,0
+APP0185,2025-11-18,43.0,30939.0,4573,24,671.0,1727.0,1756.0,Self-employed,Diploma,Mortgage,Vehicle,1
+APP0186,2024-02-23,41.0,60010.0,32192,24,526.0,9788.0,2353.0,Salaried,Graduate,Rent,Personal,1
+APP0187,2025-04-26,28.0,70310.0,29868,60,552.0,7699.0,3208.0,Contract,High School,Mortgage,Personal,1
+APP0188,2025-04-27,38.0,40257.0,5661,60,624.0,15561.0,1321.0,Salaried,Diploma,Rent,Vehicle,0
+APP0189,2025-07-20,31.0,67915.0,22785,36,725.0,25266.0,1306.0,Self-employed,Diploma,Rent,Personal,0
+APP0190,2025-03-03,34.0,30840.0,12813,36,697.0,10719.0,1794.0,Self-employed,High School,Mortgage,Home improvement,0
+APP0191,2025-10-05,51.0,117743.0,54355,36,702.0,35980.0,7037.0,Self-employed,Graduate,Mortgage,Education,0
+APP0192,2025-02-21,49.0,112860.0,42302,36,817.0,9213.0,3664.0,Self-employed,High School,Mortgage,,0
+APP0193,2025-12-04,48.0,54923.0,21918,24,608.0,2161.0,3162.0,Business owner,Diploma,Mortgage,Home improvement,0
+APP0194,2025-02-22,37.0,73817.0,56445,60,,20784.0,1767.0,Salaried,Postgraduate,Rent,Education,0
+APP0195,2025-07-05,64.0,19499.0,13012,36,710.0,5399.0,456.0,Self-employed,Postgraduate,Mortgage,Business,0
+APP0196,2025-09-01,24.0,35591.0,3000,48,642.0,5971.0,706.0,Self-employed,Diploma,Rent,Business,0
+APP0197,2025-12-12,36.0,53846.0,15375,12,692.0,11258.0,1810.0,Salaried,Diploma,Own,Personal,1
+APP0198,2024-10-13,26.0,37059.0,11509,12,586.0,7992.0,702.0,Salaried,Graduate,Own,Medical,0
+APP0199,2025-02-16,36.0,87361.0,11331,48,782.0,10131.0,2950.0,Salaried,Postgraduate,Rent,Personal,0
+APP0200,2025-11-24,64.0,161715.0,57906,36,646.0,23556.0,3665.0,Salaried,Graduate,Own,Home improvement,0
+APP0201,2024-02-21,37.0,35246.0,23816,48,822.0,6604.0,1703.0,Salaried,High School,Mortgage,Vehicle,1
+APP0202,2023-05-11,61.0,41478.0,7758,24,688.0,,2189.0,Salaried,High School,Rent,Medical,1
+APP0203,2025-08-26,43.0,69418.0,28399,60,757.0,27929.0,3226.0,Self-employed,Graduate,Mortgage,Business,1
+APP0204,2024-11-22,52.0,134353.0,27604,48,,31626.0,3406.0,Salaried,Postgraduate,Own,Business,1
+APP0205,2024-04-14,41.0,34481.0,8101,60,688.0,10774.0,,Contract,Postgraduate,Rent,Personal,0
+APP0206,2025-02-24,32.0,69872.0,53540,24,652.0,,1920.0,Salaried,High School,Own,Education,0
+APP0207,2023-02-05,55.0,148615.0,37493,36,698.0,9720.0,7368.0,Self-employed,Graduate,Rent,Vehicle,0
+APP0208,2024-06-06,64.0,28058.0,12301,36,,7891.0,1158.0,Salaried,High School,Rent,Home improvement,1
+APP0209,2023-10-18,32.0,33523.0,4072,36,639.0,7135.0,1091.0,Salaried,Graduate,Mortgage,Business,1
+APP0210,2023-11-12,56.0,50592.0,47907,36,682.0,12596.0,1026.0,Salaried,Postgraduate,Rent,Home improvement,1
+APP0211,2025-11-27,32.0,48291.0,22872,12,650.0,1708.0,2537.0,Self-employed,Graduate,Rent,Education,0
+APP0212,2024-08-25,53.0,91577.0,28163,36,839.0,35027.0,5255.0,Salaried,High School,Mortgage,Personal,0
+APP0213,2023-06-03,56.0,69626.0,32488,36,684.0,27928.0,3170.0,Business owner,,Rent,Vehicle,0
+APP0214,2024-02-04,41.0,26447.0,4141,36,790.0,566.0,,Salaried,Graduate,Mortgage,Personal,0
+APP0215,2023-09-23,,79403.0,51734,24,677.0,8347.0,4537.0,Salaried,Graduate,Mortgage,Education,0
+APP0216,2025-09-22,33.0,,13369,36,707.0,4327.0,1179.0,Salaried,Diploma,Rent,Personal,0
+APP0217,2023-11-15,24.0,114305.0,34738,48,604.0,38009.0,5527.0,Self-employed,Postgraduate,Own,Education,0
+APP0218,2024-01-26,25.0,45874.0,11902,36,661.0,11892.0,1459.0,Salaried,Diploma,Rent,Education,0
+APP0219,2024-01-01,41.0,45675.0,11284,36,704.0,4153.0,1726.0,Salaried,High School,Own,Vehicle,0
+APP0220,2023-07-12,61.0,80389.0,40050,36,793.0,27782.0,1887.0,Salaried,Diploma,Rent,Home improvement,0
+APP0221,2025-05-04,26.0,89420.0,34998,60,,14431.0,5267.0,Salaried,High School,Mortgage,Vehicle,0
+APP0222,2024-09-23,41.0,76878.0,37408,36,780.0,15709.0,3700.0,Salaried,Diploma,Rent,Education,0
+APP0223,2024-04-23,52.0,27606.0,9341,48,732.0,4829.0,,Business owner,Graduate,Mortgage,Education,0
+APP0224,2024-03-09,30.0,80270.0,36192,60,,18346.0,2630.0,Salaried,High School,Rent,Personal,0
+APP0225,2024-12-31,53.0,37738.0,10191,36,686.0,8003.0,1320.0,Salaried,High School,Rent,Home improvement,1
+APP0226,2023-04-16,34.0,69412.0,80447,60,845.0,9012.0,3405.0,Business owner,High School,Own,Personal,0
+APP0227,2025-10-17,57.0,31304.0,4493,60,658.0,5942.0,1777.0,Salaried,High School,Own,Personal,0
+APP0228,2024-09-10,47.0,76813.0,52252,12,640.0,29445.0,2350.0,Salaried,Postgraduate,Mortgage,Education,1
+APP0229,2023-09-07,45.0,42097.0,30372,36,611.0,9310.0,1564.0,Self-employed,Postgraduate,Rent,Personal,1
+APP0230,2024-08-11,28.0,33497.0,7127,48,842.0,12948.0,1419.0,Business owner,High School,Rent,Home improvement,0
+APP0231,2025-07-21,41.0,87336.0,101195,60,743.0,20965.0,2944.0,Self-employed,Graduate,Rent,Medical,0
+APP0232,2023-07-09,59.0,69625.0,40929,36,668.0,22804.0,2682.0,Salaried,Graduate,Rent,Education,0
+APP0233,2024-07-27,21.0,46174.0,26782,24,771.0,6346.0,981.0,Business owner,Postgraduate,Mortgage,Personal,0
+APP0234,2024-10-16,55.0,124425.0,42962,36,735.0,41827.0,2978.0,Salaried,Diploma,Mortgage,Vehicle,0
+APP0235,2025-06-05,43.0,50180.0,15140,24,818.0,6309.0,1709.0,Business owner,Diploma,Mortgage,Vehicle,0
+APP0236,2024-09-13,53.0,62963.0,19079,48,589.0,1752.0,3546.0,Contract,Graduate,Rent,Business,0
+APP0237,2025-03-17,50.0,70542.0,29731,36,673.0,5946.0,2244.0,Business owner,Postgraduate,Own,Medical,0
+APP0238,2025-04-27,40.0,46048.0,33836,48,660.0,1320.0,1266.0,Salaried,Graduate,Mortgage,Business,0
+APP0239,2025-09-02,34.0,77733.0,29201,60,562.0,31002.0,3798.0,Salaried,Graduate,Rent,Personal,1
+APP0240,2024-01-31,49.0,47994.0,9885,48,,20157.0,2774.0,Self-employed,Diploma,Own,Business,0
+APP0241,2025-02-09,,50884.0,27226,48,,16532.0,1860.0,Salaried,Graduate,Rent,Business,0
+APP0242,2023-09-30,47.0,119248.0,67291,48,738.0,7543.0,2032.0,Salaried,Postgraduate,Rent,Business,0
+APP0243,2025-07-13,25.0,37624.0,18337,60,843.0,14281.0,1749.0,Business owner,Diploma,Mortgage,Home improvement,0
+APP0244,2025-11-07,50.0,19472.0,9976,60,667.0,6183.0,675.0,Self-employed,Graduate,Rent,Personal,1
+APP0245,2023-11-19,49.0,134341.0,39353,12,,20540.0,6161.0,Salaried,Graduate,Mortgage,Personal,0
+APP0246,2024-09-06,24.0,210779.0,42994,36,698.0,46563.0,6050.0,Salaried,Graduate,Rent,Personal,0
+APP0247,2025-06-19,55.0,51040.0,10765,24,754.0,14531.0,856.0,Salaried,Graduate,Rent,Home improvement,0
+APP0248,2023-01-30,39.0,24470.0,3384,60,653.0,725.0,773.0,Salaried,Graduate,Rent,Business,1
+APP0249,2025-02-10,56.0,53416.0,20689,48,649.0,11784.0,2522.0,Salaried,Postgraduate,Rent,Home improvement,0
+APP0250,2025-06-17,22.0,54041.0,17550,36,759.0,16913.0,1821.0,Contract,Graduate,Own,Vehicle,0
+APP0251,2025-08-11,29.0,56598.0,15107,24,715.0,5393.0,1481.0,Self-employed,Diploma,Rent,Vehicle,0
+APP0252,2023-08-04,43.0,36332.0,3000,36,557.0,7176.0,1336.0,Salaried,,Own,Home improvement,1
+APP0253,2025-04-09,29.0,81886.0,14020,48,610.0,19080.0,4034.0,Salaried,High School,Mortgage,Personal,1
+APP0254,2025-05-10,35.0,79750.0,50227,24,788.0,25060.0,1742.0,Self-employed,Diploma,Rent,Education,0
+APP0255,2023-01-04,50.0,30260.0,7138,24,716.0,12279.0,1411.0,Contract,High School,Rent,Personal,0
+APP0256,2025-02-11,27.0,86726.0,35955,60,,31162.0,3953.0,Contract,Graduate,Own,Personal,1
+APP0257,2024-11-16,51.0,166072.0,26278,60,679.0,44608.0,5436.0,Salaried,High School,Mortgage,Medical,1
+APP0258,2025-11-26,25.0,67335.0,50509,24,691.0,17066.0,3954.0,Contract,Diploma,Own,Personal,1
+APP0259,2023-02-17,28.0,52732.0,16563,36,738.0,13778.0,2923.0,Salaried,Graduate,Rent,Home improvement,1
+APP0260,2025-11-23,47.0,57915.0,23097,60,602.0,13788.0,1759.0,,Diploma,Own,Personal,0
+APP0261,2024-09-17,56.0,83301.0,101782,48,635.0,3644.0,1501.0,Contract,Graduate,Own,Business,1
+APP0262,2023-10-28,28.0,27016.0,21150,48,708.0,8086.0,811.0,Salaried,Postgraduate,Rent,Home improvement,0
+APP0263,2024-02-29,34.0,67090.0,19271,36,684.0,20565.0,1713.0,Salaried,Graduate,Rent,Personal,0
+APP0264,2025-04-19,62.0,51404.0,12612,36,727.0,11565.0,2076.0,Salaried,High School,Mortgage,Vehicle,0
+APP0265,2025-12-26,65.0,150519.0,42787,12,610.0,55414.0,8501.0,Salaried,Diploma,Rent,Vehicle,1
+APP0266,2023-12-13,47.0,57027.0,25666,48,713.0,16479.0,3101.0,Salaried,Graduate,Rent,Personal,0
+APP0267,2025-12-13,41.0,,44302,12,761.0,22790.0,4131.0,Self-employed,Graduate,Rent,Vehicle,0
+APP0268,2024-11-19,36.0,36501.0,9986,12,722.0,1018.0,1286.0,Salaried,High School,Own,Personal,0
+APP0269,2023-07-30,48.0,82189.0,62625,48,699.0,3589.0,1500.0,Salaried,Graduate,Own,Home improvement,0
+APP0270,2024-10-16,47.0,72273.0,23077,60,684.0,11616.0,2909.0,Contract,Graduate,Rent,Medical,1
+APP0271,2025-05-27,34.0,,49203,48,636.0,8368.0,793.0,Salaried,Diploma,Own,Business,0
+APP0272,2023-03-01,22.0,67511.0,24128,36,,5856.0,3871.0,Business owner,Graduate,Mortgage,Education,0
+APP0273,2023-03-28,27.0,110957.0,100711,36,772.0,10622.0,6018.0,Salaried,High School,Rent,Vehicle,1
+APP0274,2023-01-06,64.0,53075.0,21964,36,682.0,5949.0,1377.0,Salaried,Diploma,Mortgage,Home improvement,1
+APP0275,2024-09-16,39.0,27522.0,15892,36,632.0,9143.0,1293.0,Salaried,Graduate,Rent,Personal,1
+APP0276,2023-03-05,42.0,61480.0,14032,36,658.0,20197.0,2538.0,Contract,Diploma,Rent,Vehicle,1
+APP0277,2025-10-17,42.0,40204.0,8547,36,703.0,6962.0,2066.0,Salaried,Graduate,Mortgage,Medical,0
+APP0278,2023-05-21,56.0,52605.0,23031,48,666.0,4679.0,1961.0,Business owner,Graduate,Mortgage,Home improvement,0
+APP0279,2023-03-20,23.0,59619.0,34913,60,722.0,3837.0,1489.0,Salaried,Diploma,Rent,Vehicle,0
+APP0280,2023-10-10,24.0,27342.0,9504,60,724.0,1500.0,1214.0,Self-employed,Postgraduate,Mortgage,Business,0
+APP0281,2025-04-15,33.0,28549.0,4784,12,748.0,5039.0,575.0,Salaried,Diploma,Own,Vehicle,0
+APP0282,2025-09-20,42.0,78142.0,12573,36,783.0,2986.0,3282.0,Salaried,Diploma,Rent,Vehicle,0
+APP0283,2023-10-02,51.0,48242.0,7482,24,755.0,7403.0,1249.0,Salaried,Postgraduate,Mortgage,Personal,0
+APP0284,2024-07-21,43.0,18103.0,3000,36,629.0,7325.0,839.0,Salaried,Graduate,Mortgage,Medical,1
+APP0285,2025-04-27,40.0,90365.0,32631,36,631.0,20152.0,4749.0,Salaried,Graduate,Rent,Vehicle,0
+APP0286,2025-05-22,63.0,70659.0,44604,24,685.0,24664.0,1513.0,Self-employed,High School,Own,Medical,0
+APP0287,2023-06-17,28.0,44013.0,14854,60,661.0,3156.0,1497.0,Salaried,High School,Rent,Home improvement,0
+APP0288,2025-07-06,46.0,32952.0,3232,36,616.0,4193.0,1597.0,Salaried,Graduate,Rent,Personal,0
+APP0289,2025-08-07,45.0,92603.0,28349,60,661.0,36913.0,2200.0,Salaried,Diploma,Mortgage,Business,0
+APP0290,2025-03-15,42.0,73319.0,22793,12,659.0,12715.0,,Salaried,Diploma,Own,Business,1
+APP0291,2024-07-31,57.0,,120000,12,646.0,54355.0,8907.0,Salaried,Graduate,Own,Business,1
+APP0292,2024-03-04,33.0,75855.0,11572,36,669.0,31135.0,2430.0,Self-employed,Diploma,Own,,0
+APP0293,2025-08-31,63.0,74681.0,20482,24,767.0,17947.0,3937.0,Salaried,High School,Own,Home improvement,0
+APP0294,2025-08-03,35.0,57226.0,49721,36,703.0,8134.0,,Contract,High School,Rent,Personal,1
+APP0295,2024-07-21,45.0,91761.0,39959,60,850.0,21360.0,4022.0,Salaried,Graduate,Mortgage,Business,0
+APP0296,2025-03-23,44.0,83695.0,38791,24,701.0,3503.0,1906.0,,Graduate,Own,Personal,0
+APP0297,2024-03-13,59.0,113065.0,40943,24,671.0,7343.0,1998.0,Contract,Postgraduate,Mortgage,Vehicle,0
+APP0298,2025-03-24,40.0,48274.0,19679,36,690.0,1104.0,911.0,Salaried,High School,Own,Personal,0
+APP0299,2023-04-08,,50307.0,26233,36,707.0,18799.0,2809.0,Salaried,High School,Rent,Personal,0
+APP0300,2025-09-14,21.0,49263.0,10731,48,718.0,14213.0,2705.0,Business owner,Graduate,Rent,Business,0
+APP0301,2024-07-18,37.0,90624.0,49941,36,825.0,12627.0,4682.0,Business owner,Diploma,Rent,Personal,0
+APP0302,2024-10-17,58.0,127276.0,20336,60,635.0,13805.0,3222.0,Self-employed,Graduate,Rent,Vehicle,1
+APP0303,2023-07-27,21.0,49744.0,20261,24,746.0,14586.0,1962.0,Salaried,Postgraduate,Own,Home improvement,0
+APP0304,2024-08-01,61.0,50564.0,18968,36,704.0,19609.0,2587.0,Self-employed,Graduate,Mortgage,Vehicle,1
+APP0305,2023-01-04,45.0,72088.0,17464,48,588.0,10067.0,3309.0,Business owner,Graduate,Rent,Medical,1
+APP0306,2025-09-01,27.0,55101.0,18502,60,740.0,8189.0,1194.0,Business owner,Postgraduate,Rent,Business,0
+APP0307,2025-03-31,34.0,97917.0,23639,36,772.0,35416.0,5432.0,Salaried,High School,Mortgage,Vehicle,0
+APP0308,2024-05-12,45.0,21037.0,3967,36,634.0,7938.0,497.0,Salaried,Postgraduate,Rent,Vehicle,0
+APP0309,2025-07-04,35.0,41692.0,11670,12,689.0,16077.0,,Salaried,Graduate,Mortgage,Medical,0
+APP0310,2025-06-07,25.0,42588.0,7890,24,578.0,5846.0,2373.0,Salaried,Graduate,Rent,Personal,0
+APP0311,2023-05-11,50.0,20356.0,8266,12,608.0,1387.0,767.0,Self-employed,Postgraduate,Rent,Vehicle,0
+APP0312,2023-02-28,51.0,39040.0,7051,48,758.0,7652.0,1282.0,Salaried,Graduate,Rent,Home improvement,0
+APP0313,2023-10-05,,39959.0,20098,36,660.0,5527.0,1625.0,Salaried,Graduate,Mortgage,Business,0
+APP0314,2023-01-02,,56295.0,9994,48,618.0,21029.0,3332.0,Salaried,Diploma,Rent,Medical,0
+APP0315,2024-09-19,31.0,105780.0,26340,12,705.0,3666.0,2311.0,Salaried,Graduate,Own,Vehicle,0
+APP0316,2024-08-01,50.0,55120.0,13292,60,656.0,15078.0,2727.0,Salaried,Graduate,Rent,Home improvement,0
+APP0317,2024-08-12,53.0,37801.0,26638,60,659.0,14458.0,1178.0,Salaried,Diploma,Rent,Vehicle,1
+APP0318,2023-03-22,53.0,60328.0,24598,24,738.0,24775.0,1311.0,Salaried,Graduate,,Personal,0
+APP0319,2025-10-02,63.0,,31046,12,614.0,28731.0,3586.0,Business owner,Graduate,Rent,Business,0
+APP0320,2025-12-05,55.0,38810.0,17360,12,631.0,15523.0,1570.0,Salaried,Diploma,Rent,Education,0
+APP0321,2024-10-08,35.0,40047.0,4273,60,700.0,2013.0,1025.0,,High School,Own,Business,0
+APP0322,2023-01-07,25.0,81064.0,26916,24,753.0,,2775.0,Salaried,Graduate,Mortgage,Personal,0
+APP0323,2024-03-09,48.0,55746.0,56862,36,770.0,1309.0,2465.0,Salaried,High School,Rent,Home improvement,1
+APP0324,2025-02-25,62.0,84599.0,30935,36,647.0,34895.0,3523.0,Salaried,High School,Rent,Home improvement,1
+APP0325,2025-03-30,64.0,61595.0,21739,60,751.0,23473.0,2957.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0326,2023-09-24,31.0,86828.0,39909,36,639.0,2711.0,4594.0,Salaried,High School,Mortgage,Business,0
+APP0327,2025-06-19,31.0,37724.0,20990,36,809.0,1028.0,1298.0,Salaried,Diploma,Mortgage,Home improvement,0
+APP0328,2025-11-25,22.0,61641.0,6986,60,616.0,10281.0,2157.0,Self-employed,,Mortgage,Vehicle,0
+APP0329,2024-07-10,27.0,56036.0,7553,24,776.0,6916.0,2140.0,Salaried,Diploma,Mortgage,Personal,0
+APP0330,2024-02-22,,34588.0,13202,60,647.0,12409.0,1425.0,Salaried,Postgraduate,Own,Business,0
+APP0331,2024-07-30,45.0,29273.0,6717,12,821.0,2465.0,625.0,Self-employed,Postgraduate,Rent,Personal,0
+APP0332,2023-01-30,37.0,86168.0,60286,36,728.0,28975.0,2603.0,Salaried,Graduate,Mortgage,Personal,1
+APP0333,2024-07-27,34.0,52388.0,14977,60,624.0,12667.0,1263.0,Salaried,Postgraduate,Mortgage,Home improvement,1
+APP0334,2023-01-30,58.0,37956.0,4453,48,656.0,6489.0,1267.0,Salaried,Postgraduate,Mortgage,Business,1
+APP0335,2023-02-08,41.0,59203.0,10022,48,741.0,4635.0,3484.0,Salaried,Diploma,Own,Home improvement,0
+APP0336,2024-08-28,57.0,106547.0,7984,36,758.0,44651.0,4466.0,Salaried,Graduate,Rent,Home improvement,0
+APP0337,2024-07-13,64.0,,6202,36,685.0,5543.0,732.0,Business owner,High School,Own,Business,0
+APP0338,2025-12-16,35.0,30227.0,9266,36,693.0,5917.0,1245.0,Business owner,Graduate,Own,Home improvement,0
+APP0339,2024-07-09,30.0,39811.0,10718,36,739.0,6706.0,1818.0,Business owner,Graduate,Own,Home improvement,0
+APP0340,2025-12-08,63.0,125023.0,76944,36,699.0,47795.0,4440.0,,High School,,Personal,0
+APP0341,2025-06-02,49.0,71007.0,46672,36,606.0,24744.0,2561.0,Salaried,Diploma,Own,Home improvement,1
+APP0342,2024-01-05,34.0,89608.0,27741,36,637.0,30868.0,4217.0,Salaried,Postgraduate,Rent,Home improvement,0
+APP0343,2025-10-11,48.0,35868.0,3770,36,705.0,9558.0,692.0,Salaried,Diploma,Own,Personal,0
+APP0344,2024-06-12,44.0,36225.0,17295,36,769.0,13591.0,1452.0,Salaried,High School,Own,Personal,0
+APP0345,2024-10-13,61.0,76868.0,35471,24,795.0,10739.0,3104.0,Salaried,High School,Mortgage,Personal,0
+APP0346,2023-04-20,32.0,63759.0,25699,60,741.0,19222.0,3153.0,Salaried,Graduate,Own,Home improvement,0
+APP0347,2023-08-21,65.0,80683.0,47065,48,709.0,14666.0,,Salaried,Postgraduate,Own,Vehicle,0
+APP0348,2024-07-25,63.0,56659.0,10151,24,739.0,14731.0,2898.0,Salaried,Graduate,Own,Personal,0
+APP0349,2023-10-25,29.0,70856.0,72723,48,647.0,29707.0,2728.0,Self-employed,Graduate,Own,Home improvement,1
+APP0350,2024-10-18,28.0,66889.0,13417,60,680.0,27679.0,,Salaried,Diploma,Rent,Home improvement,1
+APP0351,2023-03-29,44.0,90059.0,46235,24,636.0,20268.0,3797.0,Contract,High School,Mortgage,Education,1
+APP0352,2023-10-02,23.0,91332.0,12276,24,609.0,22791.0,4824.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0353,2024-12-29,34.0,28491.0,5807,12,712.0,10796.0,1626.0,Salaried,Graduate,Own,Home improvement,0
+APP0354,2024-11-01,40.0,21083.0,16505,12,702.0,8734.0,1105.0,Salaried,Graduate,Own,Personal,1
+APP0355,2025-12-13,64.0,100281.0,29538,60,735.0,33237.0,2493.0,Salaried,Graduate,Rent,Business,0
+APP0356,2025-09-12,65.0,109644.0,59168,60,725.0,5052.0,5213.0,Salaried,,Own,Home improvement,0
+APP0357,2025-06-06,27.0,37987.0,14713,12,706.0,5662.0,2082.0,Salaried,Graduate,Own,Personal,0
+APP0358,2023-01-02,61.0,25391.0,8149,48,,9614.0,1172.0,Self-employed,,Mortgage,Home improvement,0
+APP0359,2024-10-21,25.0,65018.0,46804,12,687.0,21283.0,3016.0,Salaried,Graduate,Rent,Education,1
+APP0360,2023-09-08,54.0,96925.0,28932,48,717.0,30715.0,3716.0,Salaried,Graduate,Mortgage,Personal,0
+APP0361,2023-10-20,59.0,146933.0,18761,48,643.0,42195.0,6505.0,Business owner,Graduate,Rent,Vehicle,0
+APP0362,2023-08-18,61.0,79436.0,17363,36,714.0,14783.0,2337.0,Salaried,,Own,Business,0
+APP0363,2024-05-14,31.0,51868.0,23880,12,733.0,9403.0,1064.0,Salaried,Graduate,Own,Vehicle,0
+APP0364,2023-05-16,61.0,40384.0,17067,48,646.0,13875.0,2122.0,Salaried,High School,Rent,Home improvement,1
+APP0365,2024-08-05,26.0,62342.0,8953,60,693.0,8573.0,3587.0,Salaried,Diploma,Own,Vehicle,1
+APP0366,2023-07-01,44.0,53704.0,12259,36,649.0,,2889.0,Salaried,Graduate,Mortgage,Home improvement,1
+APP0367,2024-07-01,42.0,38088.0,9404,24,656.0,11826.0,1186.0,Salaried,Graduate,Own,Business,1
+APP0368,2024-11-16,35.0,165759.0,46096,24,617.0,59312.0,3434.0,Self-employed,Graduate,Rent,Personal,0
+APP0369,2023-07-16,21.0,146060.0,23300,36,772.0,21610.0,4207.0,Salaried,Graduate,Own,Medical,1
+APP0370,2023-04-23,55.0,106958.0,25739,48,759.0,33880.0,5689.0,Salaried,Diploma,Rent,Vehicle,0
+APP0371,2025-06-01,36.0,39850.0,9075,60,725.0,2494.0,1797.0,Salaried,Graduate,Own,Personal,0
+APP0372,2025-03-19,50.0,93461.0,48573,48,818.0,,5473.0,Business owner,Graduate,Own,Personal,0
+APP0373,2023-10-14,39.0,84281.0,44717,60,678.0,15755.0,2656.0,Contract,Graduate,Rent,Education,0
+APP0374,2025-08-29,37.0,76674.0,24060,60,850.0,,3110.0,Business owner,Graduate,Own,Education,0
+APP0375,2023-08-31,60.0,112953.0,30955,36,675.0,45077.0,5749.0,Self-employed,High School,Mortgage,Education,1
+APP0376,2025-10-11,25.0,84109.0,30885,36,707.0,32025.0,2255.0,Self-employed,Graduate,Mortgage,Medical,1
+APP0377,2023-05-05,54.0,88441.0,19190,36,664.0,3500.0,5169.0,Salaried,Graduate,Rent,Vehicle,1
+APP0378,2024-12-23,54.0,84171.0,15230,36,714.0,29908.0,3564.0,Business owner,Postgraduate,Rent,Home improvement,0
+APP0379,2023-01-21,38.0,73019.0,14802,60,744.0,16323.0,1242.0,Salaried,Graduate,Own,Medical,0
+APP0380,2023-08-05,32.0,26338.0,6316,48,683.0,7922.0,468.0,Salaried,Diploma,Rent,Vehicle,1
+APP0381,2024-03-19,21.0,64539.0,11572,60,805.0,24187.0,3543.0,Self-employed,Graduate,Own,Education,0
+APP0382,2023-04-04,63.0,47473.0,17646,36,706.0,11906.0,2119.0,Salaried,Graduate,Rent,Business,1
+APP0383,2024-05-15,63.0,33542.0,17036,36,708.0,2232.0,1668.0,Salaried,Diploma,Rent,Vehicle,0
+APP0384,2023-09-12,31.0,138991.0,19741,36,631.0,2923.0,7039.0,Salaried,Postgraduate,Own,Medical,0
+APP0385,2023-04-19,22.0,142174.0,49012,24,717.0,31103.0,4960.0,Salaried,High School,Rent,Vehicle,0
+APP0386,2025-11-19,26.0,119052.0,35866,24,681.0,,6104.0,Contract,High School,Mortgage,Home improvement,1
+APP0387,2025-12-11,24.0,70080.0,28751,36,650.0,17453.0,4015.0,Salaried,High School,Rent,Business,1
+APP0388,2025-11-19,58.0,118562.0,40025,12,640.0,20058.0,2861.0,Contract,High School,Own,Vehicle,1
+APP0389,2023-06-18,,62360.0,9532,60,850.0,2019.0,3104.0,Salaried,Postgraduate,Own,Vehicle,0
+APP0390,2024-02-23,27.0,68339.0,11604,24,673.0,26378.0,2050.0,Self-employed,Graduate,Mortgage,Business,0
+APP0391,2023-12-25,54.0,36681.0,12675,24,595.0,5534.0,1122.0,Salaried,Diploma,Mortgage,Personal,0
+APP0392,2023-12-23,29.0,75015.0,44912,60,645.0,22648.0,2592.0,Business owner,Graduate,,Personal,1
+APP0393,2024-04-01,37.0,63823.0,6421,24,687.0,19000.0,3452.0,Salaried,Diploma,Own,Home improvement,0
+APP0394,2024-07-12,47.0,33177.0,13643,60,726.0,4033.0,585.0,Salaried,Diploma,Rent,Home improvement,0
+APP0395,2024-06-15,53.0,60495.0,39569,48,726.0,2753.0,2146.0,Salaried,High School,Own,Personal,0
+APP0396,2023-11-16,60.0,59672.0,18651,12,734.0,10383.0,2753.0,Salaried,Graduate,Rent,Vehicle,0
+APP0397,2025-12-08,23.0,146931.0,67611,48,648.0,21577.0,3152.0,Salaried,High School,Own,Personal,0
+APP0398,2025-12-08,29.0,95236.0,21996,48,712.0,28581.0,4857.0,Self-employed,Graduate,Rent,Personal,1
+APP0399,2023-12-29,,62342.0,19849,48,633.0,21690.0,3584.0,Business owner,Diploma,Mortgage,Home improvement,0
+APP0400,2023-08-31,,69864.0,9740,60,650.0,7614.0,,Self-employed,Graduate,Own,Home improvement,0
+APP0401,2024-08-06,65.0,63330.0,5931,48,630.0,14648.0,1475.0,Salaried,Graduate,Own,Vehicle,0
+APP0402,2024-02-09,55.0,56246.0,32119,48,613.0,2039.0,3312.0,Salaried,High School,Rent,Home improvement,0
+APP0403,2025-12-16,35.0,36876.0,7294,36,759.0,3898.0,931.0,Contract,High School,Rent,Personal,0
+APP0404,2024-04-15,64.0,57664.0,15261,48,735.0,18724.0,,Contract,Postgraduate,Rent,Personal,0
+APP0405,2023-02-13,,43337.0,6873,60,753.0,14620.0,2510.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0406,2023-05-17,43.0,34021.0,5326,48,693.0,11246.0,1883.0,Business owner,Graduate,Mortgage,Personal,1
+APP0407,2023-03-23,40.0,79243.0,24486,48,740.0,6098.0,3572.0,Salaried,High School,Rent,Vehicle,0
+APP0408,2024-02-24,27.0,74809.0,17028,36,576.0,17985.0,3034.0,Contract,Diploma,Mortgage,Personal,1
+APP0409,2023-12-13,63.0,26299.0,11008,48,746.0,4973.0,1486.0,Business owner,Graduate,Own,Home improvement,1
+APP0410,2025-07-27,21.0,58454.0,25491,60,702.0,24352.0,2635.0,Self-employed,Postgraduate,Rent,Personal,0
+APP0411,2025-09-02,28.0,99990.0,40558,24,731.0,28160.0,4519.0,Salaried,Diploma,Own,Personal,0
+APP0412,2023-06-03,31.0,103086.0,39964,24,715.0,40624.0,5487.0,Self-employed,Graduate,Rent,Home improvement,1
+APP0413,2025-10-31,33.0,101447.0,82146,36,626.0,7927.0,4562.0,Salaried,Graduate,Rent,Vehicle,1
+APP0414,2024-10-01,26.0,63169.0,11939,36,593.0,12656.0,2432.0,Contract,High School,Mortgage,Business,1
+APP0415,2023-12-02,21.0,,13633,36,644.0,13582.0,1387.0,Salaried,Diploma,Rent,Home improvement,0
+APP0416,2024-03-21,51.0,36854.0,23363,12,727.0,6160.0,1418.0,Self-employed,,Mortgage,Personal,1
+APP0417,2024-04-28,64.0,73152.0,49860,36,735.0,19971.0,2875.0,Business owner,Graduate,Own,Business,1
+APP0418,2023-07-06,26.0,74380.0,11570,48,601.0,16712.0,2403.0,Salaried,Graduate,Mortgage,Business,1
+APP0419,2025-08-07,34.0,115014.0,32932,48,626.0,47935.0,4150.0,Salaried,Graduate,Own,Medical,0
+APP0420,2023-01-14,43.0,105122.0,75436,48,643.0,9414.0,5405.0,Self-employed,Diploma,Mortgage,Personal,0
+APP0421,2023-03-18,62.0,58187.0,26162,48,667.0,22934.0,2020.0,Salaried,Graduate,Rent,Business,1
+APP0422,2023-10-27,52.0,34121.0,12916,48,601.0,,606.0,Salaried,Graduate,Own,Vehicle,1
+APP0423,2023-06-07,55.0,53195.0,16045,60,,11022.0,1539.0,Salaried,Graduate,Own,Education,1
+APP0424,2023-03-09,47.0,68814.0,18944,48,637.0,15926.0,1838.0,Salaried,Graduate,Mortgage,Education,0
+APP0425,2024-02-24,39.0,56268.0,22417,36,696.0,7098.0,2873.0,Self-employed,Diploma,Rent,Personal,1
+APP0426,2024-02-17,29.0,46981.0,13903,48,613.0,19049.0,1698.0,Salaried,Graduate,,Vehicle,0
+APP0427,2023-05-18,59.0,70002.0,23250,24,682.0,26922.0,2017.0,Salaried,Diploma,Mortgage,Home improvement,0
+APP0428,2025-06-06,57.0,48678.0,17282,36,759.0,19917.0,2521.0,Salaried,Diploma,Rent,Medical,1
+APP0429,2025-08-24,22.0,45863.0,10739,36,605.0,19206.0,803.0,Salaried,,Mortgage,Personal,1
+APP0430,2025-02-27,53.0,71998.0,32802,60,677.0,20730.0,,Salaried,Graduate,Rent,Vehicle,1
+APP0431,2024-07-25,24.0,51120.0,86332,48,757.0,10258.0,2684.0,Self-employed,Graduate,Rent,Business,1
+APP0432,2025-11-03,54.0,69707.0,8919,24,663.0,25115.0,2825.0,Salaried,Diploma,Own,Personal,0
+APP0433,2024-01-19,58.0,70688.0,28722,48,653.0,2087.0,3548.0,Salaried,Postgraduate,Own,Business,0
+APP0434,2024-04-12,26.0,35881.0,8031,24,766.0,12693.0,1901.0,Business owner,Postgraduate,Rent,Business,0
+APP0435,2023-01-17,40.0,49212.0,22986,48,670.0,10773.0,2829.0,,High School,Rent,Home improvement,1
+APP0436,2025-02-14,26.0,123627.0,43123,60,762.0,35764.0,2400.0,Self-employed,Graduate,Rent,Personal,0
+APP0437,2023-04-12,46.0,35493.0,18348,48,718.0,6020.0,1821.0,Salaried,Diploma,Mortgage,Education,0
+APP0438,2024-12-29,62.0,22447.0,14569,48,668.0,3759.0,1064.0,Salaried,Postgraduate,Mortgage,Business,0
+APP0439,2025-05-06,24.0,25367.0,9588,36,721.0,,650.0,Salaried,Diploma,Own,Home improvement,0
+APP0440,2023-08-26,38.0,62872.0,39842,36,711.0,11915.0,3586.0,Self-employed,Diploma,Rent,Personal,1
+APP0441,2024-11-01,64.0,62927.0,5893,60,756.0,11537.0,2151.0,Contract,Graduate,Own,Personal,0
+APP0442,2023-11-29,34.0,58597.0,47781,48,654.0,6441.0,3230.0,Salaried,Diploma,Mortgage,Home improvement,1
+APP0443,2024-03-12,26.0,111046.0,46406,36,693.0,13207.0,,Salaried,Graduate,Mortgage,Personal,0
+APP0444,2024-08-03,42.0,18000.0,11072,36,686.0,4566.0,711.0,Salaried,Graduate,Rent,Education,0
+APP0445,2023-10-01,43.0,74977.0,13032,12,736.0,11030.0,1768.0,Self-employed,Diploma,Rent,Vehicle,0
+APP0446,2025-05-22,50.0,131187.0,28244,24,623.0,46191.0,7384.0,Self-employed,Graduate,,Vehicle,1
+APP0447,2024-03-08,35.0,,13293,24,756.0,2329.0,1472.0,Self-employed,Postgraduate,Mortgage,Medical,0
+APP0448,2024-05-20,64.0,51667.0,17403,36,720.0,12971.0,875.0,Business owner,Graduate,Rent,Vehicle,0
+APP0449,2025-06-11,44.0,43196.0,17161,60,604.0,3629.0,754.0,Salaried,Graduate,Mortgage,Business,1
+APP0450,2023-09-07,33.0,40360.0,24916,36,769.0,9335.0,2033.0,Self-employed,Diploma,Rent,Medical,0
+APP0451,2024-05-10,64.0,53013.0,6827,24,835.0,12777.0,1256.0,Salaried,High School,Rent,Vehicle,0
+APP0452,2025-12-23,62.0,123018.0,71459,24,755.0,34066.0,5242.0,Salaried,Postgraduate,Mortgage,Business,0
+APP0453,2024-03-13,43.0,149767.0,51153,36,783.0,28601.0,6916.0,Business owner,Graduate,Own,Personal,0
+APP0454,2023-05-07,22.0,52767.0,16039,60,696.0,11809.0,1518.0,Salaried,Graduate,Own,Education,0
+APP0455,2023-11-08,47.0,154712.0,23421,36,582.0,14292.0,6395.0,Self-employed,Postgraduate,Mortgage,Business,1
+APP0456,2025-11-12,45.0,,28278,60,570.0,12942.0,1708.0,Self-employed,High School,Mortgage,Education,0
+APP0457,2025-04-11,27.0,143869.0,12966,60,707.0,24344.0,8297.0,Business owner,Graduate,Rent,Vehicle,0
+APP0458,2025-06-04,49.0,59285.0,28794,24,652.0,16982.0,3198.0,Salaried,Diploma,,Vehicle,1
+APP0459,2023-10-05,58.0,66026.0,9881,48,631.0,,1925.0,Salaried,High School,Mortgage,Personal,0
+APP0460,2025-07-07,25.0,73889.0,25872,60,686.0,24512.0,2925.0,Contract,Graduate,Own,Home improvement,0
+APP0461,2024-03-06,53.0,250000.0,79608,36,730.0,47599.0,,Contract,Diploma,Mortgage,Home improvement,0
+APP0462,2025-05-20,27.0,93294.0,60352,12,596.0,10664.0,5436.0,Salaried,Postgraduate,Mortgage,Personal,1
+APP0463,2025-08-22,,44152.0,13607,60,661.0,5717.0,1490.0,Self-employed,Diploma,Rent,Home improvement,0
+APP0464,2023-08-16,39.0,98717.0,22912,60,788.0,3763.0,4050.0,Salaried,Graduate,Rent,Vehicle,1
+APP0465,2025-10-24,21.0,52115.0,13410,36,620.0,12297.0,2966.0,Self-employed,Graduate,Mortgage,Personal,1
+APP0466,2024-11-23,64.0,49011.0,33560,36,747.0,17269.0,1163.0,,Graduate,Mortgage,Personal,0
+APP0467,2025-03-11,28.0,95896.0,43791,24,658.0,31420.0,3886.0,Salaried,Postgraduate,Rent,Home improvement,1
+APP0468,2025-04-08,47.0,,17308,60,725.0,12279.0,1337.0,Salaried,Graduate,Rent,Home improvement,0
+APP0469,2023-07-04,29.0,70870.0,21157,36,761.0,6977.0,3078.0,Business owner,Diploma,Mortgage,Business,0
+APP0470,2025-03-27,62.0,62418.0,8963,12,738.0,22807.0,,Contract,High School,,Vehicle,0
+APP0471,2023-08-22,54.0,72871.0,30678,48,749.0,3112.0,4270.0,Contract,Diploma,Rent,Education,0
+APP0472,2023-10-25,57.0,76029.0,9820,60,615.0,13662.0,2636.0,Salaried,Postgraduate,Mortgage,Home improvement,1
+APP0473,2023-05-08,40.0,24469.0,12580,60,762.0,8874.0,552.0,Business owner,Graduate,Mortgage,Medical,0
+APP0474,2023-07-18,42.0,85378.0,31156,36,635.0,15135.0,4509.0,Salaried,Diploma,Mortgage,Business,0
+APP0475,2025-12-07,,38697.0,48900,12,707.0,2599.0,2021.0,Salaried,Diploma,Own,Home improvement,1
+APP0476,2023-12-26,56.0,31026.0,5760,60,707.0,,1451.0,Salaried,Graduate,Rent,Education,0
+APP0477,2024-02-28,59.0,60286.0,19372,60,722.0,15675.0,2961.0,Contract,Graduate,Mortgage,Vehicle,0
+APP0478,2024-06-09,21.0,64550.0,59009,36,712.0,5217.0,1816.0,Business owner,Diploma,Rent,Education,0
+APP0479,2025-02-19,50.0,44445.0,29099,48,635.0,12532.0,1977.0,Self-employed,Graduate,Rent,Home improvement,0
+APP0480,2024-09-20,25.0,92391.0,21420,36,602.0,18041.0,1692.0,Self-employed,Graduate,Mortgage,Business,0
+APP0481,2024-08-10,33.0,32554.0,12519,36,747.0,5005.0,820.0,Salaried,Graduate,Mortgage,Personal,0
+APP0482,2025-07-05,58.0,50999.0,17359,24,702.0,5935.0,2910.0,Salaried,Diploma,Mortgage,Education,0
+APP0483,2024-06-27,32.0,46824.0,18591,24,765.0,16357.0,2280.0,Salaried,Graduate,Rent,Vehicle,0
+APP0484,2025-04-22,56.0,60629.0,14037,24,687.0,10833.0,1617.0,Salaried,High School,Mortgage,Home improvement,1
+APP0485,2025-09-24,41.0,70880.0,22944,60,599.0,22355.0,1523.0,Salaried,Diploma,Own,Home improvement,0
+APP0486,2025-01-10,31.0,38219.0,5396,24,753.0,7496.0,2209.0,Contract,Graduate,Own,Vehicle,0
+APP0487,2023-02-08,36.0,87776.0,32146,24,666.0,4981.0,1890.0,Self-employed,Graduate,Mortgage,Vehicle,0
+APP0488,2023-10-16,44.0,63904.0,27829,36,712.0,12538.0,1777.0,Contract,High School,Own,Personal,0
+APP0489,2024-11-07,,25003.0,7502,24,648.0,5578.0,615.0,Salaried,Postgraduate,Mortgage,Business,0
+APP0490,2024-06-08,48.0,24216.0,3387,24,797.0,4919.0,411.0,Salaried,High School,Own,Home improvement,0
+APP0491,2023-11-08,62.0,61634.0,36093,36,633.0,21356.0,1866.0,Salaried,Graduate,Mortgage,Business,1
+APP0492,2024-01-03,60.0,55761.0,23168,36,668.0,21431.0,3283.0,Salaried,Postgraduate,Mortgage,Vehicle,0
+APP0493,2023-03-27,54.0,58997.0,13455,48,697.0,19747.0,1857.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0494,2023-09-15,48.0,61173.0,17824,60,619.0,15484.0,2356.0,Salaried,Graduate,Rent,Personal,1
+APP0495,2025-05-07,,69090.0,10291,24,711.0,16345.0,3385.0,Salaried,,Rent,Education,0
+APP0496,2023-01-12,39.0,97710.0,18901,60,795.0,27148.0,3962.0,Self-employed,Graduate,Mortgage,Vehicle,0
+APP0497,2025-07-05,26.0,36372.0,9200,60,658.0,4915.0,1778.0,Salaried,Graduate,Mortgage,Personal,0
+APP0498,2024-01-07,37.0,35325.0,23604,60,716.0,12178.0,1602.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0499,2025-06-03,62.0,36684.0,8774,48,511.0,13307.0,1579.0,Salaried,Diploma,Rent,Business,0
+APP0500,2023-10-08,40.0,71223.0,34437,48,687.0,9037.0,3192.0,Salaried,Graduate,Own,Home improvement,0
+APP0501,2025-06-26,26.0,112698.0,28498,48,670.0,42952.0,5781.0,Salaried,Diploma,Mortgage,Personal,0
+APP0502,2024-09-18,50.0,50405.0,19642,48,637.0,18120.0,2391.0,Salaried,Postgraduate,Mortgage,Education,1
+APP0503,2025-07-21,64.0,18659.0,5869,12,760.0,3541.0,951.0,Self-employed,Diploma,Rent,Home improvement,0
+APP0504,2023-03-10,60.0,27364.0,15038,60,669.0,10497.0,629.0,Salaried,Diploma,Own,Medical,0
+APP0505,2025-05-23,33.0,41566.0,10531,48,678.0,2834.0,1913.0,Business owner,Postgraduate,Rent,Business,1
+APP0506,2023-10-24,41.0,47438.0,6792,60,665.0,1480.0,2306.0,Salaried,Diploma,Own,Home improvement,0
+APP0507,2024-01-28,44.0,50963.0,8103,36,565.0,8111.0,1512.0,Salaried,Diploma,Rent,Business,1
+APP0508,2023-02-19,32.0,63159.0,16028,12,616.0,15548.0,3446.0,Salaried,Graduate,Rent,,0
+APP0509,2025-11-10,33.0,53383.0,9131,36,752.0,8572.0,1595.0,Salaried,High School,Rent,Vehicle,0
+APP0510,2024-12-03,31.0,102598.0,43712,36,553.0,40714.0,,Salaried,High School,Mortgage,Medical,1
+APP0511,2025-12-10,65.0,44820.0,11795,36,640.0,5463.0,2431.0,Contract,Graduate,Mortgage,Education,1
+APP0512,2024-09-14,54.0,40986.0,51442,36,664.0,5430.0,1122.0,Salaried,Diploma,Mortgage,Business,1
+APP0513,2023-06-23,58.0,78022.0,10201,36,803.0,21373.0,2705.0,Self-employed,Diploma,Own,Vehicle,0
+APP0514,2024-01-05,57.0,29667.0,11282,36,740.0,639.0,967.0,Salaried,High School,Own,Personal,0
+APP0515,2024-04-26,64.0,74753.0,13667,36,654.0,23250.0,4155.0,Salaried,Diploma,,Vehicle,1
+APP0516,2023-06-11,25.0,65128.0,16881,60,775.0,11136.0,2370.0,Salaried,Diploma,Own,Vehicle,0
+APP0517,2025-10-16,60.0,57764.0,21228,24,,23747.0,2701.0,Salaried,High School,Rent,Personal,1
+APP0518,2025-11-14,23.0,132888.0,12575,36,756.0,39410.0,6787.0,Salaried,Graduate,Mortgage,Business,0
+APP0519,2024-09-09,42.0,45992.0,17813,36,602.0,1880.0,,Business owner,Graduate,Mortgage,Personal,1
+APP0520,2024-10-01,47.0,166680.0,120000,36,760.0,9509.0,9594.0,Self-employed,High School,,Vehicle,0
+APP0521,2025-02-09,37.0,55641.0,14742,36,664.0,3075.0,2862.0,Business owner,Diploma,Rent,Personal,0
+APP0522,2025-01-13,27.0,33588.0,13174,48,623.0,13470.0,1142.0,Salaried,Postgraduate,Own,Personal,1
+APP0523,2023-03-10,29.0,64116.0,38305,60,676.0,18826.0,3710.0,Contract,Graduate,Rent,Vehicle,0
+APP0524,2024-08-04,58.0,36986.0,11491,36,,7066.0,1457.0,Salaried,Graduate,Rent,Personal,0
+APP0525,2025-04-30,35.0,43219.0,10675,48,,4330.0,763.0,Self-employed,Graduate,Mortgage,Vehicle,1
+APP0526,2025-06-02,34.0,75017.0,7295,12,726.0,27715.0,2096.0,Business owner,Diploma,Own,Personal,0
+APP0527,2024-10-14,62.0,80949.0,39156,36,652.0,8145.0,3530.0,Self-employed,Graduate,Mortgage,Business,0
+APP0528,2025-09-08,27.0,45993.0,14694,36,730.0,13921.0,1079.0,Contract,Postgraduate,Rent,Business,0
+APP0529,2024-10-03,62.0,99593.0,19401,12,719.0,32401.0,4181.0,Self-employed,Postgraduate,,Personal,0
+APP0530,2024-02-24,62.0,108066.0,39392,48,686.0,14898.0,3494.0,Salaried,Diploma,Mortgage,Personal,0
+APP0531,2024-04-29,47.0,123539.0,30469,48,661.0,27421.0,4920.0,Self-employed,Diploma,Own,,0
+APP0532,2025-01-25,28.0,79938.0,20324,48,700.0,8729.0,,Salaried,High School,Mortgage,Home improvement,1
+APP0533,2025-08-28,28.0,119293.0,56613,36,726.0,20467.0,6374.0,Business owner,Diploma,Rent,Vehicle,0
+APP0534,2023-09-09,33.0,25137.0,4094,48,,10207.0,813.0,Contract,Diploma,,Home improvement,0
+APP0535,2023-11-18,46.0,53226.0,32193,36,751.0,15822.0,1210.0,Salaried,Graduate,Mortgage,Education,1
+APP0536,2024-12-14,27.0,40894.0,6446,12,753.0,14666.0,1458.0,Salaried,High School,Mortgage,Business,0
+APP0537,2025-04-16,41.0,65652.0,15504,24,850.0,15510.0,2477.0,Salaried,Postgraduate,Mortgage,Business,0
+APP0538,2024-03-13,26.0,47127.0,46139,48,724.0,5449.0,2087.0,Salaried,High School,Own,Vehicle,0
+APP0539,2024-12-05,45.0,57247.0,36184,60,722.0,17469.0,2255.0,Salaried,High School,Mortgage,Home improvement,0
+APP0540,2023-01-08,21.0,153021.0,54896,12,736.0,33699.0,2839.0,Self-employed,Postgraduate,Mortgage,Personal,0
+APP0541,2023-11-16,52.0,57149.0,11583,36,624.0,5186.0,3111.0,Salaried,Graduate,Rent,Vehicle,0
+APP0542,2025-11-12,23.0,75623.0,19218,48,661.0,13988.0,2756.0,Contract,Diploma,Rent,Personal,0
+APP0543,2024-09-23,,55459.0,19632,60,657.0,15192.0,1109.0,Salaried,Graduate,Mortgage,Business,1
+APP0544,2025-08-08,28.0,64295.0,22316,36,732.0,20197.0,3225.0,Salaried,Diploma,Own,Medical,0
+APP0545,2023-08-27,58.0,62179.0,20110,48,679.0,7293.0,2815.0,Salaried,High School,Own,Home improvement,0
+APP0546,2023-11-15,23.0,76886.0,25702,48,699.0,28478.0,3445.0,Contract,Graduate,Mortgage,Home improvement,1
+APP0547,2025-12-03,40.0,108471.0,32778,60,761.0,18638.0,3815.0,Salaried,Diploma,,Education,0
+APP0548,2025-12-28,47.0,136713.0,21031,24,746.0,17561.0,4710.0,Salaried,Graduate,Own,Medical,0
+APP0549,2025-08-18,44.0,71934.0,18409,60,679.0,7053.0,2871.0,Salaried,Diploma,Own,Education,0
+APP0550,2023-12-14,51.0,82279.0,46263,12,646.0,28112.0,1552.0,Contract,Graduate,Own,Education,1
+APP0551,2025-05-27,57.0,35685.0,5716,60,764.0,5769.0,1057.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0552,2024-05-17,38.0,59439.0,18208,12,740.0,12682.0,3535.0,Self-employed,High School,Own,Home improvement,0
+APP0553,2025-07-13,58.0,97366.0,21090,24,586.0,10625.0,4417.0,Self-employed,High School,Own,Personal,1
+APP0554,2025-07-21,35.0,93953.0,33962,12,670.0,27663.0,3271.0,Self-employed,Graduate,Mortgage,Education,0
+APP0555,2024-04-21,65.0,68628.0,18843,36,701.0,22813.0,1805.0,Salaried,Graduate,Mortgage,Business,0
+APP0556,2023-11-30,43.0,94879.0,72701,36,741.0,14779.0,4645.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0557,2025-12-03,54.0,78469.0,35252,24,749.0,31233.0,2193.0,Salaried,Graduate,Rent,Education,0
+APP0558,2024-05-08,60.0,110309.0,18228,36,708.0,3557.0,2615.0,Salaried,Graduate,Mortgage,Education,0
+APP0559,2024-04-17,,71238.0,35037,36,728.0,5213.0,1664.0,Self-employed,Diploma,Own,Personal,0
+APP0560,2024-12-29,59.0,52269.0,11606,60,694.0,13356.0,2523.0,Salaried,Graduate,Rent,Home improvement,0
+APP0561,2025-10-22,,72845.0,18033,60,646.0,21894.0,3243.0,Salaried,Diploma,Mortgage,Vehicle,0
+APP0562,2023-05-23,22.0,18000.0,7273,48,673.0,2165.0,354.0,Salaried,Graduate,Mortgage,Education,1
+APP0563,2025-12-13,43.0,74509.0,19330,24,691.0,18003.0,1613.0,Salaried,High School,Own,Business,1
+APP0564,2024-04-07,29.0,18000.0,10000,36,688.0,2652.0,794.0,Salaried,Diploma,Mortgage,Home improvement,0
+APP0565,2023-01-29,61.0,27109.0,6020,60,567.0,6551.0,1123.0,Self-employed,Graduate,Rent,Medical,1
+APP0566,2023-12-05,,77014.0,18630,24,664.0,21851.0,3573.0,Salaried,Graduate,Rent,Business,1
+APP0567,2024-05-21,31.0,77972.0,18477,36,694.0,31900.0,1901.0,Business owner,Graduate,Rent,Home improvement,0
+APP0568,2025-01-11,32.0,35487.0,8840,60,672.0,7178.0,1709.0,,Graduate,Own,Home improvement,1
+APP0569,2024-09-12,49.0,44050.0,27414,60,674.0,12303.0,2521.0,Salaried,Postgraduate,Mortgage,Personal,0
+APP0570,2023-05-29,46.0,119701.0,57514,36,722.0,30071.0,5113.0,Salaried,Postgraduate,Mortgage,Home improvement,0
+APP0571,2024-06-18,63.0,49146.0,42796,48,620.0,7226.0,1237.0,Salaried,Postgraduate,Mortgage,Education,1
+APP0572,2023-09-12,39.0,181951.0,120000,36,584.0,22057.0,8390.0,Salaried,Graduate,Rent,Vehicle,1
+APP0573,2023-10-23,33.0,61943.0,11947,48,667.0,25716.0,1953.0,Salaried,Graduate,Rent,,0
+APP0574,2025-02-17,23.0,75414.0,26653,12,740.0,7748.0,1418.0,Contract,Graduate,Rent,Business,0
+APP0575,2025-05-29,21.0,,23987,24,800.0,45282.0,4010.0,,Graduate,Mortgage,Personal,0
+APP0576,2023-06-21,37.0,66025.0,14637,48,741.0,5192.0,3691.0,Salaried,Diploma,Rent,Vehicle,0
+APP0577,2024-10-21,62.0,38321.0,9213,24,595.0,13096.0,1321.0,Salaried,Graduate,Own,Home improvement,1
+APP0578,2024-04-07,44.0,58819.0,11181,48,675.0,5546.0,3184.0,Salaried,High School,Mortgage,Personal,1
+APP0579,2024-01-04,61.0,60949.0,11620,36,707.0,24798.0,2359.0,Business owner,High School,Mortgage,,0
+APP0580,2025-02-19,25.0,32203.0,10114,60,702.0,9480.0,1258.0,Salaried,Postgraduate,Rent,Education,0
+APP0581,2023-09-30,25.0,54835.0,9548,60,725.0,3073.0,926.0,Self-employed,High School,Rent,,0
+APP0582,2025-04-18,58.0,43418.0,23459,36,630.0,12907.0,1922.0,Contract,Graduate,Own,Vehicle,1
+APP0583,2024-03-14,25.0,96624.0,19831,60,694.0,25262.0,2062.0,Salaried,Graduate,Own,Personal,0
+APP0584,2023-04-14,23.0,63039.0,100505,36,717.0,9772.0,2358.0,Salaried,,Rent,Home improvement,1
+APP0585,2025-05-17,39.0,54130.0,14358,36,744.0,,1513.0,Salaried,Postgraduate,Mortgage,Home improvement,0
+APP0586,2025-07-21,62.0,58919.0,20842,24,638.0,18118.0,1984.0,Contract,High School,Own,Personal,1
+APP0587,2024-09-08,52.0,69009.0,11507,60,668.0,21844.0,2756.0,Salaried,Postgraduate,Own,Personal,0
+APP0588,2025-03-03,25.0,83363.0,72439,60,,12578.0,1442.0,,Graduate,Rent,Medical,1
+APP0589,2023-06-11,58.0,38370.0,24148,60,650.0,14216.0,1113.0,Contract,Diploma,Rent,Education,1
+APP0590,2024-01-07,,37606.0,15054,60,656.0,4796.0,2239.0,Contract,High School,Rent,Personal,1
+APP0591,2024-01-19,57.0,105360.0,17079,60,624.0,5052.0,2018.0,Salaried,Diploma,Rent,Home improvement,0
+APP0592,2025-04-16,61.0,50867.0,19419,24,701.0,13223.0,1552.0,Salaried,Diploma,Own,Medical,0
+APP0593,2024-01-21,31.0,31408.0,5763,60,686.0,1973.0,961.0,Self-employed,Diploma,Own,Personal,0
+APP0594,2025-03-08,65.0,76720.0,58303,36,543.0,10025.0,2540.0,Salaried,Postgraduate,Mortgage,Education,1
+APP0595,2023-12-02,35.0,77444.0,41092,36,704.0,17260.0,3589.0,Contract,Diploma,Mortgage,Education,0
+APP0596,2024-10-19,57.0,29737.0,10655,36,630.0,4001.0,815.0,Salaried,Postgraduate,Rent,Education,0
+APP0597,2023-08-18,47.0,69220.0,6162,36,722.0,7337.0,2534.0,,High School,Rent,Business,0
+APP0598,2024-09-03,56.0,88254.0,17471,36,607.0,26589.0,3937.0,Contract,Postgraduate,Mortgage,Home improvement,1
+APP0599,2023-03-30,49.0,74206.0,36830,36,692.0,17720.0,2273.0,Salaried,Diploma,Mortgage,Personal,1
+APP0600,2025-03-15,49.0,83972.0,55632,24,672.0,29886.0,4852.0,Salaried,Graduate,Mortgage,Business,1
+APP0601,2023-02-01,48.0,31598.0,19773,36,710.0,7978.0,1868.0,Salaried,Graduate,Rent,Personal,1
+APP0602,2025-12-30,56.0,72678.0,10295,60,698.0,15508.0,1588.0,,High School,Rent,Vehicle,0
+APP0603,2025-07-07,54.0,53618.0,21519,48,673.0,6676.0,1692.0,Contract,Graduate,Rent,Vehicle,0
+APP0604,2024-09-25,27.0,49175.0,29227,36,590.0,16563.0,1263.0,Salaried,Diploma,Mortgage,Medical,1
+APP0605,2025-09-22,58.0,94161.0,12860,36,594.0,9298.0,2332.0,,Graduate,Own,Vehicle,0
+APP0606,2025-06-04,45.0,126114.0,42693,36,652.0,14742.0,4785.0,Salaried,Graduate,Own,Business,0
+APP0607,2023-06-06,35.0,146706.0,57988,24,689.0,52321.0,6029.0,Business owner,Graduate,Own,Personal,0
+APP0608,2025-03-25,44.0,116541.0,33583,60,650.0,36883.0,4092.0,Salaried,High School,Rent,Vehicle,1
+APP0609,2024-02-18,64.0,58819.0,7221,24,731.0,15596.0,1675.0,Business owner,High School,Own,Medical,0
+APP0610,2025-07-26,59.0,73438.0,20874,48,672.0,2612.0,2111.0,Contract,High School,Rent,Business,0
+APP0611,2025-08-03,58.0,89587.0,25442,48,627.0,6352.0,5345.0,Salaried,Diploma,Own,Home improvement,0
+APP0612,2025-11-11,41.0,65713.0,20595,36,672.0,14456.0,3725.0,Contract,High School,Mortgage,Personal,0
+APP0613,2024-05-08,56.0,66016.0,16464,60,705.0,21028.0,1317.0,Self-employed,Postgraduate,Mortgage,Home improvement,1
+APP0614,2023-07-31,38.0,92069.0,24534,36,711.0,18933.0,4154.0,Salaried,Graduate,Rent,Personal,0
+APP0615,2023-05-17,51.0,60261.0,20046,60,812.0,1622.0,2197.0,Salaried,Graduate,Mortgage,Personal,0
+APP0616,2023-07-01,49.0,43688.0,18946,48,647.0,4094.0,2032.0,Contract,Diploma,Mortgage,Vehicle,1
+APP0617,2025-12-22,32.0,50815.0,14614,60,685.0,12984.0,2161.0,Contract,Diploma,Rent,Home improvement,0
+APP0618,2024-10-04,32.0,84050.0,22812,48,718.0,25021.0,4640.0,Self-employed,Graduate,Rent,Personal,0
+APP0619,2024-01-21,23.0,62089.0,22210,60,,2072.0,1215.0,Business owner,Diploma,Own,Medical,0
+APP0620,2024-05-06,27.0,72998.0,8629,60,657.0,2725.0,2322.0,Salaried,Diploma,Rent,Medical,0
+APP0621,2023-07-09,40.0,85522.0,37801,36,589.0,10650.0,5078.0,Contract,Graduate,Rent,Vehicle,1
+APP0622,2024-09-16,42.0,51791.0,17603,60,,2766.0,1272.0,Contract,Graduate,Rent,Vehicle,0
+APP0623,2024-04-11,28.0,89133.0,30974,48,620.0,21105.0,1977.0,Salaried,Postgraduate,Rent,Personal,0
+APP0624,2025-05-23,39.0,74365.0,42887,36,578.0,5167.0,3589.0,Salaried,Diploma,Own,Home improvement,0
+APP0625,2023-01-24,48.0,34275.0,3981,60,638.0,9573.0,1726.0,Salaried,Graduate,Own,Vehicle,0
+APP0626,2025-10-17,31.0,123896.0,14225,36,,40996.0,5674.0,Contract,High School,Rent,Business,1
+APP0627,2023-03-08,36.0,48753.0,19270,36,728.0,19901.0,2452.0,Salaried,Diploma,Mortgage,Education,0
+APP0628,2024-04-02,37.0,28014.0,9488,24,729.0,11188.0,1309.0,Self-employed,Graduate,Rent,Vehicle,0
+APP0629,2024-01-08,43.0,37544.0,14017,24,631.0,4856.0,847.0,Salaried,High School,Rent,Personal,1
+APP0630,2025-02-25,37.0,37979.0,10015,60,673.0,1206.0,1634.0,Salaried,Graduate,Rent,Business,0
+APP0631,2024-12-21,54.0,63572.0,31148,36,569.0,,3200.0,Self-employed,Graduate,Mortgage,Vehicle,0
+APP0632,2023-08-04,35.0,54363.0,30871,36,658.0,16493.0,2945.0,Salaried,High School,Mortgage,Personal,1
+APP0633,2024-06-21,40.0,52744.0,23402,36,716.0,2317.0,1442.0,Contract,Postgraduate,Own,Home improvement,0
+APP0634,2024-08-08,38.0,83479.0,24590,36,744.0,13681.0,1852.0,Salaried,Graduate,Rent,Medical,0
+APP0635,2024-05-22,29.0,72987.0,7785,60,644.0,10161.0,3687.0,Business owner,Graduate,Rent,Business,0
+APP0636,2023-01-24,51.0,72156.0,37454,60,758.0,7774.0,2005.0,Salaried,Graduate,Rent,Business,0
+APP0637,2023-07-15,31.0,75479.0,50249,12,591.0,22829.0,1362.0,Business owner,Postgraduate,Mortgage,Vehicle,0
+APP0638,2024-07-05,34.0,83336.0,40390,36,,23637.0,4369.0,Self-employed,Diploma,Rent,Vehicle,0
+APP0639,2023-10-13,56.0,22541.0,4724,36,736.0,5279.0,870.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0640,2024-08-20,63.0,52050.0,25636,48,799.0,20003.0,1604.0,Salaried,Graduate,Own,Education,1
+APP0641,2023-06-29,51.0,21772.0,11883,36,722.0,1334.0,374.0,Salaried,Diploma,Own,Business,1
+APP0642,2025-03-16,62.0,63082.0,50551,36,687.0,5039.0,1148.0,Self-employed,Diploma,Mortgage,Personal,0
+APP0643,2023-07-26,59.0,61862.0,12991,36,,10726.0,3156.0,Contract,Postgraduate,Rent,Vehicle,1
+APP0644,2024-12-12,42.0,102411.0,30742,48,559.0,28916.0,3880.0,Salaried,Graduate,Mortgage,Home improvement,1
+APP0645,2025-07-05,55.0,109640.0,56227,36,698.0,27808.0,2539.0,Salaried,Graduate,Rent,Medical,0
+APP0646,2024-01-28,35.0,68338.0,23980,36,667.0,3391.0,2201.0,Self-employed,Graduate,Mortgage,Home improvement,0
+APP0647,2023-06-02,41.0,48762.0,8968,60,618.0,19669.0,1162.0,Salaried,Postgraduate,Own,Personal,1
+APP0648,2023-01-07,45.0,78258.0,33423,48,694.0,11115.0,1687.0,Self-employed,Postgraduate,Rent,Vehicle,0
+APP0649,2024-01-30,64.0,48122.0,22493,36,697.0,7872.0,1378.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0650,2023-05-07,59.0,61959.0,22110,60,751.0,16695.0,2508.0,Self-employed,Diploma,Rent,Personal,0
+APP0651,2025-08-23,43.0,99532.0,38185,60,699.0,39620.0,2565.0,Business owner,High School,Rent,Business,0
+APP0652,2025-12-01,50.0,47437.0,13989,24,770.0,13523.0,1497.0,Salaried,Graduate,Mortgage,Home improvement,0
+APP0653,2025-12-09,30.0,91273.0,69972,48,691.0,36683.0,3412.0,Salaried,Postgraduate,Own,Vehicle,1
+APP0654,2025-10-06,57.0,85823.0,17780,36,683.0,8156.0,2992.0,Salaried,Graduate,,Vehicle,0
+APP0655,2024-10-04,45.0,39206.0,9650,48,759.0,10489.0,872.0,Salaried,High School,Own,Home improvement,0
+APP0656,2023-12-22,44.0,98949.0,33847,24,626.0,34786.0,1816.0,Salaried,Diploma,Own,Vehicle,0
+APP0657,2024-05-03,55.0,86699.0,47802,48,850.0,19387.0,1578.0,Business owner,Graduate,Rent,Personal,0
+APP0658,2023-10-11,49.0,65109.0,9715,36,714.0,10734.0,2073.0,Self-employed,Postgraduate,Rent,Home improvement,0
+APP0659,2025-07-09,24.0,43001.0,7112,36,715.0,17798.0,2056.0,Salaried,High School,Mortgage,Home improvement,0
+APP0660,2024-04-22,33.0,41047.0,4550,60,724.0,3136.0,918.0,Contract,Graduate,Rent,Business,0
+APP0661,2024-02-26,28.0,47897.0,16580,36,812.0,8831.0,2432.0,Salaried,Graduate,Own,Home improvement,0
+APP0662,2025-01-25,54.0,80445.0,14786,60,742.0,29712.0,3836.0,Contract,Postgraduate,Rent,Personal,1
+APP0663,2024-02-14,22.0,39190.0,10784,60,586.0,14900.0,660.0,Salaried,High School,Rent,Personal,0
+APP0664,2024-01-26,30.0,76488.0,37415,60,781.0,31525.0,1363.0,Self-employed,Postgraduate,Own,Personal,1
+APP0665,2023-09-06,47.0,34161.0,8161,24,668.0,12774.0,858.0,Business owner,Graduate,Mortgage,Personal,1
+APP0666,2023-03-15,52.0,56215.0,21706,60,697.0,2270.0,1074.0,Contract,Graduate,Mortgage,Personal,0
+APP0667,2023-02-11,43.0,65351.0,18847,12,607.0,25611.0,2594.0,Contract,High School,Mortgage,Personal,1
+APP0668,2024-03-17,59.0,200497.0,98657,36,724.0,38348.0,3686.0,Salaried,Graduate,Rent,Vehicle,0
+APP0669,2025-12-25,62.0,32009.0,14133,60,648.0,8983.0,1647.0,Contract,Graduate,,Medical,0
+APP0670,2023-10-13,26.0,125675.0,29205,48,697.0,22334.0,4779.0,Salaried,Diploma,Rent,Medical,0
+APP0671,2024-12-02,63.0,66624.0,20645,36,672.0,,3212.0,Self-employed,Graduate,Mortgage,Medical,0
+APP0672,2023-12-22,48.0,75528.0,45593,36,815.0,18910.0,3716.0,Salaried,Graduate,Rent,Home improvement,0
+APP0673,2023-11-28,49.0,65624.0,27702,60,819.0,23508.0,2535.0,Salaried,Graduate,Own,Vehicle,0
+APP0674,2023-06-28,,76754.0,12103,48,693.0,7484.0,4357.0,Salaried,High School,Rent,Medical,0
+APP0675,2024-09-08,48.0,57591.0,28082,36,694.0,5413.0,3431.0,Salaried,Graduate,Mortgage,Education,0
+APP0676,2024-12-22,53.0,124596.0,23330,60,666.0,24440.0,4016.0,Self-employed,Diploma,Mortgage,Home improvement,0
+APP0677,2024-01-19,47.0,49801.0,36822,24,762.0,1091.0,1102.0,Contract,Postgraduate,Mortgage,Personal,1
+APP0678,2024-07-30,24.0,106763.0,63756,24,669.0,31724.0,3460.0,Business owner,Postgraduate,Rent,Vehicle,0
+APP0679,2024-06-05,44.0,45506.0,18146,48,663.0,6299.0,1199.0,Salaried,Diploma,Mortgage,Personal,0
+APP0680,2023-10-24,63.0,60233.0,22329,60,754.0,14632.0,2390.0,Business owner,High School,Rent,Vehicle,0
+APP0681,2025-01-27,53.0,37062.0,11233,36,655.0,1779.0,1225.0,Salaried,Diploma,Rent,Business,1
+APP0682,2024-08-29,,77134.0,38089,36,688.0,6808.0,2891.0,Salaried,Graduate,Rent,Personal,0
+APP0683,2023-03-14,64.0,124064.0,34400,24,587.0,33391.0,6171.0,Contract,Postgraduate,Rent,Education,0
+APP0684,2024-06-23,64.0,59740.0,23121,60,736.0,8499.0,1705.0,Salaried,Graduate,,Business,0
+APP0685,2024-03-02,28.0,56409.0,30981,24,816.0,5973.0,2254.0,Salaried,High School,Rent,Education,0
+APP0686,2025-05-21,57.0,36311.0,9064,36,737.0,4050.0,1133.0,Salaried,High School,Own,Vehicle,0
+APP0687,2023-12-02,39.0,55538.0,13455,60,785.0,5883.0,2815.0,Salaried,Diploma,Own,Personal,0
+APP0688,2025-11-12,47.0,28864.0,5088,12,635.0,7768.0,1281.0,Contract,Postgraduate,Mortgage,Medical,0
+APP0689,2024-11-04,41.0,40003.0,7574,36,705.0,3483.0,681.0,Salaried,Graduate,Mortgage,Vehicle,1
+APP0690,2023-05-24,56.0,69130.0,8598,36,629.0,11412.0,3129.0,Salaried,Graduate,Own,Medical,1
+APP0691,2024-03-17,,116776.0,59314,60,675.0,34467.0,2807.0,Salaried,Diploma,Rent,Education,0
+APP0692,2025-08-25,56.0,,120000,36,740.0,53838.0,11476.0,Salaried,Postgraduate,Mortgage,Education,0
+APP0693,2023-10-06,62.0,46786.0,34838,36,697.0,12113.0,1930.0,Self-employed,Diploma,Rent,Education,1
+APP0694,2025-02-10,63.0,123480.0,17166,24,598.0,14862.0,4206.0,Business owner,Postgraduate,Rent,Education,0
+APP0695,2025-05-07,25.0,69695.0,35304,48,605.0,27396.0,3258.0,,Postgraduate,,Personal,0
+APP0696,2025-01-28,32.0,57658.0,42857,60,600.0,10699.0,3101.0,Contract,Graduate,Own,Vehicle,1
+APP0697,2023-04-09,53.0,76308.0,20181,24,722.0,10285.0,3847.0,Salaried,Postgraduate,Rent,Vehicle,0
+APP0698,2024-02-14,47.0,63870.0,22962,36,824.0,24381.0,2574.0,Contract,Diploma,Own,Personal,0
+APP0699,2024-01-17,23.0,65374.0,7367,60,779.0,18443.0,3137.0,,Graduate,Rent,Education,1
+APP0700,2024-01-12,25.0,50965.0,20066,12,567.0,13535.0,1764.0,Salaried,High School,Own,Home improvement,1
+APP0701,2025-08-20,44.0,31691.0,6003,36,782.0,11874.0,1612.0,Self-employed,Graduate,Own,Personal,0
+APP0702,2023-01-07,48.0,29553.0,11214,36,751.0,1283.0,1554.0,Salaried,Diploma,Rent,Business,0
+APP0703,2024-08-13,28.0,84834.0,12222,36,590.0,30122.0,1919.0,Contract,High School,Own,Vehicle,0
+APP0704,2025-12-11,28.0,54289.0,24880,36,670.0,15806.0,1465.0,Self-employed,High School,Own,Education,0
+APP0705,2025-08-16,26.0,46573.0,27818,36,761.0,7638.0,1321.0,Business owner,Diploma,Own,Personal,0
+APP0706,2024-10-26,46.0,62254.0,13759,24,726.0,7629.0,1486.0,Salaried,Graduate,Rent,Business,0
+APP0707,2025-12-28,21.0,90804.0,16520,36,605.0,5623.0,3058.0,Salaried,Graduate,Own,Medical,0
+APP0708,2024-03-16,46.0,67607.0,7022,48,730.0,26801.0,1692.0,Self-employed,Diploma,Rent,Home improvement,0
+APP0709,2024-10-31,42.0,45251.0,13288,36,551.0,3474.0,,Salaried,Postgraduate,Rent,Education,0
+APP0710,2024-08-18,41.0,111693.0,27579,24,676.0,13825.0,2353.0,Salaried,Postgraduate,Rent,Vehicle,0
+APP0711,2023-02-21,51.0,132309.0,19169,60,764.0,39222.0,3753.0,Self-employed,High School,Own,Business,0
+APP0712,2023-02-14,44.0,78612.0,34291,24,691.0,23903.0,3577.0,Business owner,Graduate,Rent,Personal,0
+APP0713,2025-09-09,53.0,98938.0,26264,60,658.0,8341.0,3358.0,Self-employed,Graduate,Mortgage,Home improvement,0
+APP0714,2023-07-10,55.0,112536.0,21175,36,748.0,38898.0,3931.0,Salaried,Graduate,Rent,Personal,0
+APP0715,2024-01-24,62.0,,26729,60,753.0,23903.0,5465.0,Salaried,Diploma,Mortgage,Personal,0
+APP0716,2024-11-13,56.0,83254.0,51024,24,775.0,29920.0,4939.0,Self-employed,Graduate,Rent,Vehicle,1
+APP0717,2024-09-22,44.0,82627.0,39140,24,747.0,4537.0,3400.0,Salaried,High School,Own,Personal,0
+APP0718,2024-07-17,43.0,79565.0,25185,36,760.0,2954.0,1599.0,Salaried,Diploma,Mortgage,Medical,0
+APP0719,2025-12-08,31.0,36613.0,17498,12,738.0,10061.0,773.0,Salaried,Graduate,Own,Medical,0
+APP0720,2025-05-11,,86789.0,15583,24,707.0,6944.0,5089.0,Salaried,Graduate,Rent,Vehicle,0
+APP0721,2025-10-28,27.0,32341.0,11193,48,696.0,7438.0,1491.0,Salaried,Postgraduate,Own,Vehicle,0
+APP0722,2024-12-22,62.0,42340.0,15611,60,675.0,,2086.0,Salaried,High School,Mortgage,Business,0
+APP0723,2025-12-08,59.0,115914.0,30436,24,611.0,38480.0,5326.0,Self-employed,High School,Mortgage,Vehicle,0
+APP0724,2024-10-20,26.0,92799.0,40090,60,628.0,35246.0,2269.0,Salaried,High School,Rent,Medical,1
+APP0725,2024-08-16,56.0,126607.0,28023,60,672.0,45016.0,4570.0,Self-employed,High School,Mortgage,Medical,0
+APP0726,2025-06-11,26.0,54420.0,24491,60,706.0,,2789.0,Salaried,High School,Rent,Vehicle,1
+APP0727,2025-08-09,53.0,35661.0,16424,48,784.0,13595.0,1933.0,Contract,Graduate,Rent,Medical,0
+APP0728,2023-03-16,,55242.0,3775,48,687.0,10916.0,1489.0,Salaried,Graduate,Own,Personal,0
+APP0729,2025-09-24,42.0,65112.0,42605,36,755.0,11677.0,2767.0,Salaried,Graduate,Own,Medical,0
+APP0730,2025-01-26,50.0,,4096,48,760.0,24372.0,1512.0,Salaried,Diploma,Own,Medical,0
+APP0731,2025-09-09,,106837.0,25885,60,675.0,41749.0,6217.0,Salaried,High School,Mortgage,,0
+APP0732,2025-02-22,39.0,52129.0,31151,24,729.0,21328.0,1439.0,Salaried,Graduate,Rent,Education,1
+APP0733,2025-10-11,62.0,73414.0,20964,36,674.0,24030.0,3535.0,Contract,High School,Own,Personal,1
+APP0734,2023-10-29,55.0,38575.0,5856,12,776.0,3888.0,1029.0,Business owner,Postgraduate,Rent,Vehicle,0
+APP0735,2023-07-25,30.0,76960.0,14338,60,731.0,30629.0,3337.0,Salaried,High School,Rent,Vehicle,0
+APP0736,2023-08-03,51.0,62093.0,37137,36,613.0,24766.0,2809.0,Salaried,Graduate,Rent,Personal,1
+APP0737,2023-10-04,53.0,43260.0,5112,48,700.0,12392.0,1337.0,Self-employed,Postgraduate,Mortgage,Personal,0
+APP0738,2023-08-23,36.0,55364.0,35025,60,797.0,20092.0,2887.0,Self-employed,Graduate,Own,Personal,0
+APP0739,2024-04-28,54.0,56754.0,18720,60,678.0,13875.0,3123.0,Salaried,Graduate,Rent,Medical,1
+APP0740,2023-08-05,61.0,54460.0,9610,24,719.0,21656.0,2926.0,Self-employed,Graduate,Mortgage,Medical,0
+APP0741,2023-06-23,57.0,145093.0,35797,60,725.0,8354.0,4498.0,Salaried,High School,Mortgage,Personal,1
+APP0742,2024-07-27,55.0,59138.0,11491,60,623.0,,2893.0,Self-employed,Graduate,Mortgage,Vehicle,1
+APP0743,2025-05-18,49.0,55150.0,30195,12,723.0,2327.0,2256.0,Salaried,Postgraduate,Own,Personal,0
+APP0744,2023-05-29,33.0,22654.0,11523,48,599.0,3526.0,959.0,Salaried,Postgraduate,Rent,Vehicle,1
+APP0745,2024-07-13,56.0,,5331,36,649.0,2992.0,1508.0,Salaried,Graduate,Own,Personal,0
+APP0746,2024-12-22,37.0,54645.0,14881,48,760.0,11566.0,2332.0,Self-employed,Diploma,Mortgage,Home improvement,0
+APP0747,2025-02-11,44.0,44609.0,9435,36,713.0,5036.0,1006.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0748,2023-04-26,35.0,120344.0,83344,36,670.0,48237.0,4138.0,Contract,Graduate,Mortgage,Home improvement,0
+APP0749,2025-03-14,35.0,57281.0,9268,24,719.0,13961.0,1396.0,Contract,Diploma,Own,Medical,0
+APP0750,2023-01-30,28.0,115075.0,94547,24,686.0,43624.0,3315.0,Self-employed,High School,Rent,Personal,1
+APP0751,2023-09-17,64.0,63864.0,21320,24,691.0,8380.0,1418.0,Salaried,High School,Own,Vehicle,0
+APP0752,2023-12-16,27.0,63118.0,11326,48,733.0,1918.0,1633.0,Salaried,Graduate,Rent,Medical,0
+APP0753,2025-07-23,24.0,59413.0,13918,36,643.0,19622.0,3003.0,Salaried,High School,Rent,Business,0
+APP0754,2023-07-30,63.0,62113.0,13589,24,693.0,18693.0,2515.0,Self-employed,High School,Own,Personal,1
+APP0755,2025-05-06,45.0,141480.0,23863,48,670.0,33700.0,,Business owner,High School,Own,Vehicle,0
+APP0756,2025-12-18,40.0,20363.0,7294,48,587.0,7048.0,1035.0,Salaried,Postgraduate,Mortgage,Business,1
+APP0757,2025-11-17,54.0,23722.0,4105,36,630.0,8446.0,1330.0,Contract,High School,Mortgage,Vehicle,1
+APP0758,2023-11-28,38.0,47771.0,4896,60,792.0,12189.0,2619.0,Salaried,High School,Mortgage,Personal,0
+APP0759,2023-04-15,26.0,62434.0,17227,36,715.0,25371.0,3267.0,Salaried,Graduate,Mortgage,Home improvement,1
+APP0760,2023-09-01,,86348.0,10892,60,604.0,26585.0,5152.0,,Diploma,Mortgage,Home improvement,1
+APP0761,2025-04-21,28.0,77806.0,17492,12,590.0,22622.0,3274.0,Self-employed,Postgraduate,Rent,Medical,0
+APP0762,2023-08-04,45.0,51557.0,10632,48,683.0,8485.0,3010.0,Salaried,Postgraduate,Own,Education,0
+APP0763,2024-12-07,63.0,101117.0,21291,60,791.0,2114.0,5843.0,Salaried,Graduate,Rent,Vehicle,0
+APP0764,2024-02-14,63.0,101659.0,103891,60,678.0,11831.0,3074.0,Contract,Graduate,Rent,Home improvement,1
+APP0765,2025-04-19,37.0,67727.0,23753,36,775.0,22050.0,3663.0,Salaried,Diploma,,Personal,0
+APP0766,2024-10-25,56.0,98417.0,38296,48,713.0,29914.0,5020.0,Salaried,High School,Mortgage,Home improvement,0
+APP0767,2024-10-03,,70669.0,9045,36,721.0,10771.0,,Salaried,,Mortgage,Home improvement,0
+APP0768,2025-05-06,42.0,47353.0,11236,48,603.0,12796.0,2628.0,Salaried,High School,Mortgage,Business,1
+APP0769,2025-11-11,27.0,86668.0,33172,60,751.0,8503.0,2887.0,Salaried,High School,Mortgage,Personal,0
+APP0770,2024-02-04,37.0,65381.0,12653,60,668.0,8202.0,2223.0,Salaried,Graduate,Mortgage,Business,0
+APP0771,2024-08-02,50.0,62040.0,34758,36,746.0,24752.0,2755.0,Self-employed,High School,Rent,Vehicle,1
+APP0772,2024-11-16,65.0,125732.0,22062,12,,23295.0,6115.0,Salaried,High School,Mortgage,Education,1
+APP0773,2025-06-20,21.0,19120.0,5553,48,702.0,2256.0,1048.0,Self-employed,Graduate,Mortgage,,1
+APP0774,2024-06-11,53.0,31395.0,7733,24,713.0,6745.0,1715.0,Salaried,Graduate,Mortgage,Vehicle,0
+APP0775,2024-02-15,59.0,35070.0,13052,36,680.0,6130.0,1681.0,Salaried,High School,Rent,Education,0
+APP0776,2025-07-15,63.0,52079.0,12450,36,716.0,16239.0,3027.0,Salaried,High School,Rent,,0
+APP0777,2025-11-09,40.0,54868.0,16073,48,673.0,22213.0,1339.0,Salaried,High School,Mortgage,Personal,1
+APP0778,2024-09-15,26.0,30073.0,8980,24,648.0,7720.0,1740.0,Salaried,Diploma,Rent,Personal,1
+APP0779,2023-04-24,,38639.0,8772,24,794.0,9909.0,751.0,Salaried,Graduate,Rent,Vehicle,0
+APP0780,2023-11-14,59.0,41015.0,18209,12,758.0,6806.0,1671.0,Business owner,Postgraduate,Own,Personal,1
+APP0781,2024-05-21,60.0,201683.0,78179,60,641.0,49584.0,4150.0,Contract,Graduate,Rent,Home improvement,0
+APP0782,2025-02-09,49.0,147226.0,47676,48,727.0,21750.0,6077.0,Salaried,Graduate,Rent,Business,0
+APP0783,2025-01-03,26.0,50881.0,13653,12,642.0,1040.0,1708.0,Salaried,Graduate,Mortgage,Medical,0
+APP0784,2025-06-16,26.0,52071.0,27437,12,613.0,19081.0,1052.0,Salaried,Graduate,Mortgage,Home improvement,1
+APP0785,2023-02-02,42.0,35713.0,10665,36,757.0,6849.0,,Contract,High School,Mortgage,Education,0
+APP0786,2024-05-24,47.0,24810.0,7126,36,579.0,5380.0,1200.0,Salaried,High School,Rent,Personal,0
+APP0787,2025-02-06,22.0,58617.0,21111,48,750.0,3130.0,1419.0,Salaried,Graduate,Rent,Business,0
+APP0788,2025-12-16,51.0,38404.0,33198,36,674.0,13627.0,1796.0,Salaried,Graduate,Own,Business,1
+APP0789,2023-06-05,45.0,59526.0,9683,60,676.0,5246.0,1454.0,Salaried,High School,Own,Personal,0
+APP0790,2025-08-20,21.0,28761.0,14934,36,717.0,5299.0,651.0,Salaried,Diploma,Rent,Business,0
+APP0791,2023-01-09,25.0,43008.0,5162,48,728.0,15315.0,991.0,Contract,Diploma,Mortgage,Personal,1
+APP0792,2023-08-04,41.0,66585.0,25513,12,636.0,13524.0,2838.0,Business owner,Diploma,Mortgage,Medical,0
+APP0793,2025-07-16,53.0,73915.0,59764,60,737.0,29009.0,3726.0,Salaried,Graduate,Own,Personal,1
+APP0794,2025-05-11,58.0,75756.0,33699,60,697.0,7858.0,3222.0,Salaried,Graduate,Own,Education,0
+APP0795,2025-12-01,40.0,32894.0,12284,48,608.0,10069.0,1702.0,Salaried,Graduate,Own,Home improvement,1
+APP0796,2024-10-20,34.0,93446.0,23344,36,679.0,38425.0,3953.0,Salaried,Diploma,Rent,Medical,0
+APP0797,2024-11-05,64.0,42226.0,14604,24,780.0,10128.0,2163.0,Salaried,High School,Rent,Home improvement,0
+APP0798,2024-08-08,41.0,84008.0,24865,60,799.0,24940.0,4955.0,Salaried,Postgraduate,Own,Business,0
+APP0799,2024-07-14,35.0,61684.0,13612,48,737.0,10936.0,2073.0,Contract,Graduate,Own,Business,0
+APP0800,2024-07-16,40.0,32023.0,9283,24,613.0,10264.0,742.0,Business owner,High School,Own,Medical,1
